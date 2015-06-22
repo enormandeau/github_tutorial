@@ -1,4 +1,4 @@
-# github_tutorial
+# GitHub Tutorial
 
 ## An introduction to Git and GitHub
 This tutorial covers the basics of the Git version control tool in combination
