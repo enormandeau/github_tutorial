@@ -1,9 +1,40 @@
 # github_tutorial
 
-# An introduction to Git and GitHub
-
+## An introduction to Git and GitHub
 This tutorial covers the basics of the Git version control tool in combination
 with the popular GitHub web platform.
+
+## Target audience
+This tutorial is aimed at Linux and Mac users who need to do some programming
+in the context of their research project or job and who would like to share
+their code, develop better programming habits, and make collaboration easier.
+
+## Table of contents
+### GitHub
+- Overview of Github
+- Creating an account
+
+### Git
+- Overview of Git
+- Installation (Linux and Mac)
+
+### Basic Workflow
+- Creating a repository
+- Cloning
+- Evolving
+  - Modify your code
+  - Stage your changes
+  - Commit your changes
+  - Push them to your online repository
+
+### Intermediate actions
+- Differences among files and versions
+- Creating and pushing tags
+- Working with branches
+
+### Advanced notions
+- Contributing to someone else's repository (create fake repository for that purpose)
+- Cherry picking and the like
 
 ## Licence
 
