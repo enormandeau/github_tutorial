@@ -1,6 +1,9 @@
 # github_tutorial
-Introduction to Git and GitHub
 
+# An introduction to Git and GitHub
+
+This tutorial covers the basics of the Git version control tool in combination
+with the popular GitHub web platform.
 
 ## Licence
 
