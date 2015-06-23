@@ -15,7 +15,7 @@ their code, develop better programming habits, and make collaboration easier.
   - Main page
   - User page (contributions, repositories, follow{ing,ers})
   - Projects (repositories)
-  - [Example project](https://github.com/enormandeau/intro_linux_raq) (README and files/folders)
+  - [Example project](https://github.com/enormandeau/github_tutorial) (README and files/folders)
 - Creating an account
   - Login name
   - Email address
@@ -29,12 +29,7 @@ their code, develop better programming habits, and make collaboration easier.
 
 ### Basic Workflow
 - Creating a repository
-- Evolving
-  - Modify your code
-  - Stage your changes
-  - Commit your changes
-  - Push them to your online repository
-- Summing up the workflow
+- Git basic workflow
   - Making some changes
   - `git status`
   - `git add`
