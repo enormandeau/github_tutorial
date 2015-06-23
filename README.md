@@ -12,15 +12,15 @@ their code, develop better programming habits, and make collaboration easier.
 ## Table of contents
 ### GitHub
 - Overview of Github
-  - Main page
-  - User page (contributions, repositories, follow{ing,ers})
-  - Projects (repositories)
-  - [Example project](https://github.com/enormandeau/github_tutorial) (README and files/folders)
+  - [Main page](https://github.com)
+  - [User page](https://github.com/enormandeau) (contributions, repositories, follow{ing,ers})
+  - [Projects](https://github.com/enormandeau?tab=repositories) (repositories)
+  - [Example project](https://github.com/enormandeau/meditation_timer) (README and files/folders)
 - Creating an account
   - Login name
   - Email address
   - Password
-  - Choosing free plan (0$)
+  - Choosing free plan
 
 ### Git
 - Overview of Git
@@ -28,9 +28,9 @@ their code, develop better programming habits, and make collaboration easier.
 - Local setup
 
 ### Basic Workflow
-- Creating a repository
+- Creating a repository on [GitHub](https://github.com)
 - Git basic workflow
-  - Making some changes
+  - Making some changes (adding and editing files)
   - `git status`
   - `git add`
   - `git commit -m "Message"`
