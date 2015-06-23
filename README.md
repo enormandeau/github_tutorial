@@ -12,11 +12,21 @@ their code, develop better programming habits, and make collaboration easier.
 ## Table of contents
 ### GitHub
 - Overview of Github
+  - Main page
+  - User page (contributions, repositories, follow{ing,ers})
+  - Projects (repositories)
+  - [Example project](https://github.com/enormandeau/intro_linux_raq) (README and files/folders)
 - Creating an account
+  - Login name
+  - Email address
+  - Password
+  - Choosing free plan (0$)
+- Go through the GitHub Hello World tutorial?
 
 ### Git
 - Overview of Git
 - Installation (Linux and Mac)
+- Local setup
 
 ### Basic Workflow
 - Creating a repository
@@ -26,6 +36,12 @@ their code, develop better programming habits, and make collaboration easier.
   - Stage your changes
   - Commit your changes
   - Push them to your online repository
+- Summing up the workflow
+  - Making some changes
+  - git status
+  - git add
+  - git commit -m "Message"
+  - git push
 
 ### Intermediate actions
 - Differences among files and versions
@@ -33,6 +49,7 @@ their code, develop better programming habits, and make collaboration easier.
 - Working with branches
 
 ### Advanced notions
+- Creating aliases for common git commands
 - Contributing to someone else's repository (create fake repository for that purpose)
 - Cherry picking and the like
 
