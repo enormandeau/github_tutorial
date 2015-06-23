@@ -15,7 +15,7 @@ their code, develop better programming habits, and make collaboration easier.
   - [Main page](https://github.com)
   - [User page](https://github.com/enormandeau) (contributions, repositories, follow{ing,ers})
   - [Projects](https://github.com/enormandeau?tab=repositories) (repositories)
-  - [Example project](https://github.com/enormandeau/meditation_timer) (README and files/folders)
+  - [Example project](https://github.com/enormandeau/meditation-timer) (README and files/folders)
 - Creating an account
   - Login name
   - Email address
