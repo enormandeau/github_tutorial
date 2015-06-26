@@ -4,12 +4,28 @@
 This tutorial covers the basics of the Git version control tool in combination
 with the popular GitHub web platform.
 
-## Target audience
-This tutorial is aimed at Linux and Mac users who need to do some programming
-in the context of their research project or job and who would like to share
-their code, develop better programming habits, and make collaboration easier.
-
 ## Table of contents
+### Who is this tutorial for?
+This tutorial is aimed at graduate students who program in the context of their
+research project and struggle with projects that go passed the single script
+barrier.
+
+### What problems are we trying to solve?
+- Track changes and versions
+- Colaborate
+- Increase your visibility
+- Develop better coding practices
+- Share your code
+
+Git and GitHub will help you accomplish the above. They will require some work
+to get started, but it should also fun to learn.
+
+### Revision control (aka version control) from 10,000 feet
+- What it is
+- How it works
+- How it can help you
+- Why Git and Github?
+
 ### GitHub
 - Overview of Github
   - [Main page](https://github.com)
