@@ -10,28 +10,38 @@ research project and struggle with projects that go passed the single script
 barrier.
 
 ## What problems are we trying to solve?
-- Track changes and versions
-- Colaborate
-- Increase your visibility
-- Develop better coding practices
-- Share your code
+- Tracking changes and versions in code and documents
+- Collaborating with others to do your analyses
+- Increasing your online visibility
+- Developing better coding and analysis practices
+- Sharing your code
 
-Git and GitHub will help you accomplish the above. They will require some work
-to get started, but it should also fun to learn.
+Git and GitHub can help you accomplish the above. However, **they will require
+some work** to get you started, but **it should also fun to learn**. Let the
+geeky part of you enjoy this. You don't have to be a biologist / chemist /
+microbiologist... all the time!. :)
+
+## What to expect from this tutorial
+After going trough this tutorial, you should:
+- Have a solid grasp of revision control
+- Know the basics of how to use Git and GitHub
+- Know which graphical interfaces are available for your OS
 
 ## Table of contents
 ### Revision control (aka version control) from 10,000 feet
 - What it is
 - How it works
 - How it can help you
-- Why Git and Github?
+- Why chose Git and Github?
 
 ### GitHub
 - Overview of Github
   - [Main page](https://github.com)
-  - [User page](https://github.com/enormandeau) (contributions, repositories, follow{ing,ers})
+  - [User page](https://github.com/enormandeau) (contributions,
+    repositories, follow{ing,ers})
   - [Projects](https://github.com/enormandeau?tab=repositories) (repositories)
-  - [Example project](https://github.com/enormandeau/meditation-timer) (README and files/folders)
+  - [Example project](https://github.com/enormandeau/meditation-timer)
+    (README and files/folders)
 - Creating an account
   - Login name
   - Email address
@@ -40,11 +50,14 @@ to get started, but it should also fun to learn.
 
 ### Git
 - Overview of Git
-- Installation (Linux and Mac)
-- Local setup
+- Installation (Linux, Mac, Windows)
+- Graphical Interface vs Command Line
+- Setup
 
 ### Basic Workflow
-- Creating a repository on [GitHub](https://github.com)
+- Creating a project
+  - Create a repository on [GitHub](https://github.com))
+  - Include a README file
 - Git basic workflow
   - Making some changes (adding and editing files)
   - `git status`
@@ -54,19 +67,18 @@ to get started, but it should also fun to learn.
 - Downloading a repository from GitHub
   - Clicking the `Download ZIP` link
   - `git clone`
-
-### Intermediate actions
+- Using markdown in your README.md
 - Differences among files and versions
+
+### More advanced notions
 - Creating and pushing tags
 - Working with branches
-
-### Advanced notions
 - Forking and pull requests
-- Cherry picking and the like
+- Cherry picking
+- Reseting
 - Creating aliases for common git commands
 
 ## Licence
-
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img
   alt="Creative Commons Licence" style="border-width:0"
   src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br/><span
