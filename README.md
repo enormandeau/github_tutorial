@@ -10,11 +10,17 @@ research project and struggle with projects that go passed the single script
 barrier.
 
 ## What problems are we trying to solve?
-- Tracking changes and versions in code and documents
-- Collaborating with others to do your analyses
+- Working from anywhere
 - Increasing your online visibility
-- Developing better coding and analysis practices
-- Sharing your code
+- Improve coding and analysis practices
+- Structure your code and projects better
+- Collaborating with others to do your analyses
+- Create basic web pages to show your analyses
+- Tracking code modifications and versions
+- Create easy documentation and tutorials
+- Open Science: share your code
+- Show your project is alive
+- Improving your carreer
 
 Git and GitHub can help you accomplish the above. However, **they will require
 some work** to get you started, but **it should also fun to learn**. Let the
