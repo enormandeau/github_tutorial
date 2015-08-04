@@ -1,20 +1,22 @@
 # GitHub Tutorial
 
-## An introduction to Git and GitHub
+![be social](images/be-social.gif)
+
+## An introduction to Git and GitHub for scientists
 This tutorial covers the basics of the Git version control tool in combination
 with the popular GitHub web platform.
 
 ## Who is this tutorial for?
-This tutorial is aimed at graduate students who program in the context of their
-research project and struggle with projects that go passed the single script
+This tutorial is aimed at students and academics who program in the context of their
+research
 barrier.
 
 ## What problems are we trying to solve?
-- Working from anywhere
-- Increasing your online visibility
+- Collaborating with others
+- Work on your code from anywhere
+- Increase your online visibility
 - Improve coding and analysis practices
 - Structure your code and projects better
-- Collaborating with others to do your analyses
 - Create basic web pages to show your analyses
 - Tracking code modifications and versions
 - Create easy documentation and tutorials
