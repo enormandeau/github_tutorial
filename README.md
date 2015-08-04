@@ -1,4 +1,4 @@
-# GitHub Tutorial ![octocat](images/Octocat_small.png)
+# GitHub Tutorial
 
 ## An introduction to Git and GitHub
 This tutorial covers the basics of the Git version control tool in combination
@@ -43,7 +43,7 @@ After going trough this tutorial, you should:
 - How it can help you
 - Why chose Git and Github?
 
-### GitHub
+### GitHub ![octocat](images/Octocat_small.png)
 - Overview of Github
   - [Main page](https://github.com)
   - [User page](https://github.com/enormandeau)
