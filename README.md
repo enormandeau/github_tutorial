@@ -43,7 +43,7 @@ After going trough this tutorial, you should:
 - How it can help you
 - Why chose Git and Github?
 
-### GitHub ![octocat](images/Octocat_small.png)
+### [GitHub](files/02_github.md) ![octocat](images/Octocat_small.png)
 - Overview of Github
   - [Main page](https://github.com)
   - [User page](https://github.com/enormandeau)
@@ -64,6 +64,7 @@ After going trough this tutorial, you should:
   - We will use the command line to understand the process
   - This may be more difficult on Windows
   - You can use a Graphical Interface in the future
+  - RStudio has git support built-in
 - Setup
 
 ### Basic Workflow
@@ -83,7 +84,7 @@ After going trough this tutorial, you should:
 - Using markdown in your README.md
 - Differences among files and versions
 
-### More advanced notions
+### Advanced notions
 - Creating and pushing tags
 - Working with branches
 - Forking and pull requests
@@ -91,9 +92,9 @@ After going trough this tutorial, you should:
 - Reseting
 - Creating aliases for common git commands
 
-### Where do we go now?
+### Conclusion
 - Use git and GitHub
-- RStudio has git support implemented
+- Share and collaborate
 
 ## Licence
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img
