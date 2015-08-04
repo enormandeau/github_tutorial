@@ -3,25 +3,19 @@
 ![be social](images/be-social.gif)
 
 ## An introduction to Git and GitHub
-This tutorial covers the basics of the Git version control tool in combination
-with the popular GitHub web platform.
-
-## Who is this tutorial for?
-This tutorial is aimed at students and academics who program in the context of their
-research
-barrier.
+This tutorial covers the basics of the Git version control tool in combination with the popular GitHub web platform. It is aimed at students and academics who program in the context of their research and want to learn move about social coding.
 
 ## What problems are we trying to solve?
 - Collaborating with others
-- Work on your code from anywhere
-- Increase your online visibility
-- Improve coding and analysis practices
-- Structure your code and projects better
-- Create basic web pages to show your analyses
+- Open Science: sharing your code
+- Increasing your online visibility
+- Working on your code from anywhere
+- Improving coding and analysis practices
+- Structuring your code and projects better
+- Creating basic web pages to show your analyses
+- Creating easy documentation and tutorials
 - Tracking code modifications and versions
-- Create easy documentation and tutorials
-- Open Science: share your code
-- Show your project is alive
+- Showing your project is alive
 - Improving your carreer
 
 Git and GitHub can help you accomplish the above. However, **they will require
