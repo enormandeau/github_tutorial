@@ -57,7 +57,7 @@ After going trough this tutorial, you should:
   - Password
   - Choosing free plan
 
-### Git
+### Git ![octocat](images/git_logo.png)
 - Overview of Git
 - Installation (Linux, Mac, Windows)
 - Graphical Interface vs Command Line
