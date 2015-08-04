@@ -57,7 +57,7 @@ After going trough this tutorial, you should:
   - Password
   - Choosing free plan
 
-### [Git](03_git.md) ![octocat](images/git_logo.png)
+### [Git](files/03_git.md) ![octocat](images/git_logo.png)
 - Overview of Git
 - Installation (Linux, Mac, Windows)
 - Graphical Interface vs Command Line
@@ -67,7 +67,7 @@ After going trough this tutorial, you should:
   - RStudio has git support built-in
 - Setup
 
-### [Basic Workflow](04_basic_workflow.md)
+### [Basic Workflow](files/04_basic_workflow.md)
 - Creating a new project
   - Create a repository on [GitHub](https://github.com))
   - Include a README file
@@ -92,7 +92,7 @@ After going trough this tutorial, you should:
 - Reseting
 - Creating aliases for common git commands
 
-### [Conclusion](06_conclusion.md)
+### [Conclusion](files/06_conclusion.md)
 - Use git and GitHub
 - Share and collaborate
 
