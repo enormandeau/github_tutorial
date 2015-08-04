@@ -3,7 +3,9 @@
 ![be social](images/be-social.gif)
 
 ## An introduction to Git and GitHub
-This tutorial covers the basics of the Git version control tool in combination with the popular GitHub web platform. It is aimed at students and academics who program in the context of their research and want to learn move about social coding.
+This tutorial covers the basics of the Git version control tool in combination with the popular GitHub web platform. It is aimed at students and academics who program in the context of their research and want to learn more about social coding.
+
+**In heavy development**
 
 ## What problems are we trying to solve?
 - Collaborating with others
@@ -20,8 +22,7 @@ This tutorial covers the basics of the Git version control tool in combination w
 
 Git and GitHub can help you accomplish the above. However, **they will require
 some work** to get you started, but **it should also fun to learn**. Let the
-geeky part of you enjoy this. You don't have to be a biologist / chemist /
-microbiologist... all the time!. :)
+geeky part of you enjoy this. You don't have to be a scientist all the time!
 
 ## What to expect from this tutorial
 After going trough this tutorial, you should:
@@ -80,4 +81,3 @@ After going trough this tutorial, you should:
   href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution
   4.0 International License
   </a>.
-
