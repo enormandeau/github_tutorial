@@ -1,8 +1,8 @@
-# GitHub Tutorial
+# GitHub for scientists
 
 ![be social](images/be-social.gif)
 
-## An introduction to Git and GitHub for scientists
+## An introduction to Git and GitHub
 This tutorial covers the basics of the Git version control tool in combination
 with the popular GitHub web platform.
 
