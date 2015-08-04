@@ -34,7 +34,7 @@ After going trough this tutorial, you should:
 - Know which graphical interfaces are available for your OS
 
 ## Table of contents
-### Revision control from 10,000 feet
+### [Revision control from 10,000 feet](files/01_revision_control.md)
 
 ![image](images/00_ControlVersion.jpg)
 
@@ -57,7 +57,7 @@ After going trough this tutorial, you should:
   - Password
   - Choosing free plan
 
-### Git ![octocat](images/git_logo.png)
+### [Git](03_git.md) ![octocat](images/git_logo.png)
 - Overview of Git
 - Installation (Linux, Mac, Windows)
 - Graphical Interface vs Command Line
@@ -67,7 +67,7 @@ After going trough this tutorial, you should:
   - RStudio has git support built-in
 - Setup
 
-### Basic Workflow
+### [Basic Workflow](04_basic_workflow.md)
 - Creating a new project
   - Create a repository on [GitHub](https://github.com))
   - Include a README file
@@ -84,7 +84,7 @@ After going trough this tutorial, you should:
 - Using markdown in your README.md
 - Differences among files and versions
 
-### Advanced notions
+### [Advanced notions](files/05_advanced_notions.md)
 - Creating and pushing tags
 - Working with branches
 - Forking and pull requests
@@ -92,7 +92,7 @@ After going trough this tutorial, you should:
 - Reseting
 - Creating aliases for common git commands
 
-### Conclusion
+### [Conclusion](06_conclusion.md)
 - Use git and GitHub
 - Share and collaborate
 
