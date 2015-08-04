@@ -1,6 +1,4 @@
-# GitHub Tutorial
-
-![octocat](images/Octocat_small.png)
+# GitHub Tutorial ![octocat](images/Octocat_small.png)
 
 ## An introduction to Git and GitHub
 This tutorial covers the basics of the Git version control tool in combination
