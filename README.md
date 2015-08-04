@@ -35,61 +35,34 @@ After going trough this tutorial, you should:
 
 ## Table of contents
 ### [Revision control from 10,000 feet](files/01_revision_control.md)
-
-![image](images/00_ControlVersion.jpg)
-
 - What it is
 - How it works
 - How it can help you
 - Why chose Git and Github?
 
-### [GitHub](files/02_github.md) ![octocat](images/Octocat_small.png)
+### [GitHub](files/02_github.md)
 - Overview of Github
-  - [Main page](https://github.com)
-  - [User page](https://github.com/enormandeau)
-    (contributions, repositories, followers)
-  - [Projects](https://github.com/enormandeau?tab=repositories) (repositories)
-  - [Example project](https://github.com/enormandeau/meditation-timer)
-    (README and files/folders)
 - Creating an account
-  - Login name
-  - Email address
-  - Password
-  - Choosing free plan
 
 ### [Git](files/03_git.md) ![octocat](images/git_logo.png)
 - Overview of Git
-- Installation (Linux, Mac, Windows)
 - Graphical Interface vs Command Line
-  - We will use the command line to understand the process
-  - This may be more difficult on Windows
-  - You can use a Graphical Interface in the future
-  - RStudio has git support built-in
+- Installation (Linux, Mac, Windows)
 - Setup
 
 ### [Basic Workflow](files/04_basic_workflow.md)
 - Creating a new project
-  - Create a repository on [GitHub](https://github.com))
-  - Include a README file
 - Downloading a repository from GitHub
-  - Clicking the `Download ZIP` link
-  - `git clone`
 - Git basic workflow
-  - Making some changes (adding and editing files)
-  - See what files have changed: `git status`
-  - Visualize the changes: `git diff`
-  - Choose files to commit `git add`
-  - Commit changes `git commit -m "Message"`
-  - Send commit to GitHub `git push`
 - Using markdown in your README.md
 - Differences among files and versions
 
 ### [Advanced notions](files/05_advanced_notions.md)
-- Creating and pushing tags
-- Working with branches
 - Forking and pull requests
-- Cherry picking
+- Working with branches
 - Reseting
+- Creating and pushing tags
+- Cherry picking
 - Creating aliases for common git commands
 
 ### [Conclusion](files/06_conclusion.md)
