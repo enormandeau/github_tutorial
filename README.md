@@ -90,6 +90,10 @@ After going trough this tutorial, you should:
 - Reseting
 - Creating aliases for common git commands
 
+### Where do we go now?
+- Use git and GitHub
+- RStudio has git support implemented
+
 ## Licence
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img
   alt="Creative Commons Licence" style="border-width:0"
