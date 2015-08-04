@@ -1,13 +1,13 @@
 # Advanced notions
 
-## Creating and pushing tags
+## Forking and pull requests
 
 ## Working with branches
 
-## Forking and pull requests
+## Reseting
+
+## Creating and pushing tags
 
 ## Cherry picking
-
-## Reseting
 
 ## Creating aliases for common git commands
