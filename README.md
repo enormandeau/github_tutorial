@@ -1,7 +1,5 @@
 # GitHub Tutorial
 
-![image](images/00_ControlVersion.jpg)
-
 ## An introduction to Git and GitHub
 This tutorial covers the basics of the Git version control tool in combination
 with the popular GitHub web platform.
@@ -37,6 +35,9 @@ After going trough this tutorial, you should:
 
 ## Table of contents
 ### Revision control from 10,000 feet
+
+![image](images/00_ControlVersion.jpg)
+
 - What it is
 - How it works
 - How it can help you
@@ -61,7 +62,7 @@ After going trough this tutorial, you should:
 - Installation (Linux, Mac, Windows)
 - Graphical Interface vs Command Line
   - We will use the command line to understand the process
-  - This will be more difficult on Windows
+  - This may be more difficult on Windows
   - You can use a Graphical Interface in the future
 - Setup
 
