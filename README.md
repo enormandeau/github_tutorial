@@ -32,30 +32,30 @@ After going trough this tutorial, you should:
 
 ## Table of contents
 
-### 01 - [Revision control from 10,000 feet](files/01_revision_control.md)
+### [01 - Revision control from 10,000 feet](files/01_revision_control.md)
 - What it is
 - How it works
 - How it can help you
 - Why chose Git and Github?
 
-### 02 - [GitHub](files/02_github.md)
+### [02 - GitHub](files/02_github.md)
 - Overview of Github
 - Creating an account
 
-### 03 - [Git](files/03_git.md)
+### [03 - Git](files/03_git.md)
 - Overview of Git
 - Graphical Interface vs Command Line
 - Installation (Linux, Mac, Windows)
 - Setup
 
-### 04 - [Basic Workflow](files/04_basic_workflow.md)
+### [04 - Basic Workflow](files/04_basic_workflow.md)
 - Creating a new project
 - Downloading a repository from GitHub
 - Git basic workflow
 - Using markdown in your README.md
 - Differences among files and versions
 
-### 05 - [Advanced notions](files/05_advanced_notions.md)
+### [05 - Advanced notions](files/05_advanced_notions.md)
 - Forking and pull requests
 - Working with branches
 - Reseting
@@ -63,7 +63,7 @@ After going trough this tutorial, you should:
 - Cherry picking
 - Creating aliases for common git commands
 
-### 06 - [Conclusion](files/06_conclusion.md)
+### [06 - Conclusion](files/06_conclusion.md)
 - Use git and GitHub
 - Share and collaborate
 
