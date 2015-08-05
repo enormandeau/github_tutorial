@@ -7,7 +7,7 @@ This tutorial covers the basics of the Git version control tool in combination w
 
 **In heavy development**
 
-## What problems are we trying to solve?
+## What problems are we trying to solve??
 - Collaborating with others
 - Open Science: sharing your code
 - Increasing your online visibility
@@ -18,14 +18,14 @@ This tutorial covers the basics of the Git version control tool in combination w
 - Creating easy documentation and tutorials
 - Tracking code modifications and versions
 - Showing your project is alive
-- Improving your carreer
+- Improving your career
 
 Git and GitHub can help you accomplish the above. However, **they will require
-some work** to get you started, but **it should also fun to learn**. Let the
+some work** to get you started, but **it can also be fun to learn**. Let the
 geeky part of you enjoy this. You don't have to be a scientist all the time!
 
 ## What to expect from this tutorial
-After going trough this tutorial, you should:
+After going trough this tutorial, you will:
 - Have a solid grasp of revision control
 - Know the basics of how to use Git and GitHub
 - Know which graphical interfaces are available for your OS
