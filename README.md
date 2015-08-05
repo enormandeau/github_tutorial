@@ -1,11 +1,13 @@
 # GitHub for scientists
 
+## WARNING!
+
+**This tutorial is under construction. Come have a look later!**
+
 ![be social](images/be-social.gif)
 
 ## An introduction to Git and GitHub
 This tutorial covers the basics of the Git version control tool in combination with the popular GitHub web platform. It is aimed at students and academics who program in the context of their research and want to learn more about social coding.
-
-**In heavy development**
 
 ## What problems are we trying to solve??
 With this tutorial, we want to help you improve in the following categories:
