@@ -8,16 +8,18 @@ This tutorial covers the basics of the Git version control tool in combination w
 **In heavy development**
 
 ## What problems are we trying to solve??
+With this tutorial, we want to help you improve in the following categories:
+
 - Collaborating with others
-- Open Science: sharing your code
 - Increasing your online visibility
 - Working on your code from anywhere
 - Improving coding and analysis practices
 - Structuring your code and projects better
+- Sharing your code and embracing Open Science
 - Creating basic web pages to show your analyses
 - Creating easy documentation and tutorials
 - Tracking code modifications and versions
-- Showing your project is alive
+- Showing your projects are alive
 - Improving your career
 
 Git and GitHub can help you accomplish the above. However, **they will require
@@ -26,7 +28,7 @@ geeky part of you enjoy this. You don't have to be a scientist all the time!
 
 ## What to expect from this tutorial
 After going trough this tutorial, you will:
-- Have a solid grasp of revision control
+- Understand what revision control is about
 - Know the basics of how to use Git and GitHub
 - Know which graphical interfaces are available for your OS
 - Be able to start using GitHub to share and collaborate!
