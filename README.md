@@ -1,8 +1,8 @@
-# GitHub for scientists
+# Unofficial Introduction to GitHub for Scientists
 
 ## WARNING!
 
-**This tutorial is under construction. Come have a look later!**
+**This tutorial is under construction and is mostly an empty template. Come have a look later!**
 
 ![be social](images/be-social.gif)
 
@@ -31,7 +31,7 @@ geeky part of you enjoy this. You don't have to be a scientist all the time!
 ## What to expect from this tutorial
 After going trough this tutorial, you will:
 - Understand what revision control is about
-- Know the basics of how to use Git and GitHub
+- Know the basics of how to use Git and GitHub from the command line
 - Know which graphical interfaces are available for your OS
 - Be able to start using GitHub to share and collaborate!
 
