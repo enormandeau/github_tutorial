@@ -2,13 +2,13 @@
 
 ## Creating a new project
 
-- Create a repository on [GitHub](https://github.com))
+- Create a repository on [GitHub](https://github.com)
 - Include a README file
   
 ## Downloading a repository from GitHub
 
 - Clicking the `Download ZIP` link
-- `git clone`
+- Copy the clone URL on the main page of the repo, and use `git clone <clone URL>` in the terminal
   
 ## Git basic workflow
 
@@ -18,6 +18,7 @@
 - Choose files to commit `git add`
 - Commit changes `git commit -m "Message"`
 - Send commit to GitHub `git push`
+- View log of commits with messages `git log`
   
 ## Using markdown in your README.md
 
