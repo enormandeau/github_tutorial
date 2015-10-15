@@ -3,12 +3,29 @@
 ![image](../images/00_ControlVersion.jpg)
 
 ## What it is
-
-## How it works
+In a few words, revision control is the management of changes to documents. As
+programming and research projects get larger, it is useful or even essential to
+be able to keep track of changes and be able to revert to earlier versions when
+needed.
 
 ## How it can help you
-Taking the time to carefully document your progress helps you stay organized, and provides a time-stamped (and commit-messaged) record of your best workflows in your analysis. This carefully crafted workflow is automatically shared with others who can assist you in making the best of your project (and to sometimes save you from making mistakes!).  
+A revision control system, like Git, tracks changes made to files over time and
+keeps a copy of older versions. It also works as a log of progress by storing
+messages that describe these changes. This process helps you organize your
+analysis code into a working state. When used in combination with GitHub, a
+Git project hosting service, your project can be easily be shared with others,
+making your research more reproducible. Finally, it also greatly facilitates
+collaboration. Even if you are the only contributor to your project, hosting
+it online increases your visibility, which is good for your career!
 
+## Why chose Git and GitHub?
+Git and GitHub are the most used combo by scientists to share their projects.
+There are tons of online ressources about how to get started and use Git and
+GitHub, so getting help is easy.
 
-## Why chose Git and Github?
-Github is a easy step into the world of revision control, with many online resources that provide excellent advice on how to best use the tool. Many software developers are moving their projects to Github to help their users to see exactly what is changing between versions, and to facilitate collaboration. 
+## Next section
+In the next section, we will discover GitHub, how to create an account and
+a new project, also know as a repository.
+
+### [02 - GitHub](files/02_github.md)
+

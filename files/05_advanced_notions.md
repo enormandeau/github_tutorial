@@ -10,4 +10,9 @@
 
 ## Cherry picking
 
-## Creating aliases for common git commands
+## Creating aliases for common Git commands
+
+## Next section
+
+### [06 - Conclusion](files/06_conclusion.md)
+

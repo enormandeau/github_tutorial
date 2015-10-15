@@ -11,3 +11,9 @@
 ## Installation (Linux, Mac, Windows)
 
 ## Setup
+
+## Next section
+In the next section...
+
+### [04 - Basic Workflow](files/04_basic_workflow.md)
+

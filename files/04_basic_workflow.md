@@ -23,3 +23,8 @@
 ## Using markdown in your README.md
 
 ## Differences among files and versions
+
+## Next section
+
+### [05 - Advanced notions](files/05_advanced_notions.md)
+

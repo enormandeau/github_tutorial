@@ -1,5 +1,6 @@
 # Conclusion
 
-## Use git and GitHub
+## Use Git and GitHub
 
 ## Share and collaborate
+
