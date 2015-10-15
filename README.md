@@ -4,29 +4,31 @@
 
 **This tutorial is under construction and is mostly an empty template. Come have a look later!**
 
+The tutorial should be used in a workshop on 2015-11-18, so stay tuned!
+
 ![be social](images/be-social.gif)
 
 ## An introduction to Git and GitHub
-This tutorial covers the basics of the Git version control tool in combination with the popular GitHub web platform. It should be useful to anyone desiring to learn about git and GitHub but is specifically aimed at students and academics who program in the context of their research and want to learn more about social coding.
+This tutorial covers the basics of the Git version control tool in combination with the popular GitHub web platform. It should be useful to anyone desiring to learn about Git and GitHub but is specifically aimed at students and academics who program in the context of their research and want to learn more about social coding.
 
-## What problems are we trying to solve??
-With this tutorial, we want to help you improve in the following categories:
+## Why learn Git and GitHub?
+By doing so, you should improve at:
 
-- Collaborating with others
 - Increasing your online visibility
 - Working on your code from anywhere
+- Collaborating with other researchers
 - Improving coding and analysis practices
 - Structuring your code and projects better
 - Sharing your code and embracing Open Science
 - Creating basic web pages to show your analyses
 - Creating easy documentation and tutorials
-- Tracking code modifications and versions
-- Showing your projects are alive
-- Improving your career
+- Showing that your projects are alive
+- Tracking code changes and versions
+- Promoting your career
 
-Git and GitHub can help you accomplish the above. However, **they will require
-some work** to get you started, but **it can also be fun to learn**. Let the
-geeky part of you enjoy this. You don't have to be a scientist all the time!
+Git and GitHub can help you accomplish the above. However, **they require some
+work** to get you started, but **it can also be fun to learn**. Let the geeky
+part of you enjoy this. You don't have to be a scientist all the time!
 
 ## What to expect from this tutorial
 After going trough this tutorial, you will:
@@ -41,10 +43,10 @@ After going trough this tutorial, you will:
 - What it is
 - How it works
 - How it can help you
-- Why chose Git and Github?
+- Why chose Git and GitHub?
 
 ### [02 - GitHub](files/02_github.md)
-- Overview of Github
+- Overview of GitHub
 - Creating an account
 
 ### [03 - Git](files/03_git.md)
@@ -66,10 +68,10 @@ After going trough this tutorial, you will:
 - Reseting
 - Creating and pushing tags
 - Cherry picking
-- Creating aliases for common git commands
+- Creating aliases for common Git commands
 
 ### [06 - Conclusion](files/06_conclusion.md)
-- Use git and GitHub
+- Use Git and GitHub
 - Share and collaborate
 
 ## Licence
