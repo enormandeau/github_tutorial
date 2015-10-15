@@ -27,5 +27,5 @@ GitHub, so getting help is easy.
 In the next section, we will discover GitHub, how to create an account and
 a new project, also know as a repository.
 
-### [02 - GitHub](files/02_github.md)
+### [02 - GitHub](02_github.md)
 

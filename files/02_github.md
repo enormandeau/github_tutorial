@@ -63,5 +63,5 @@ together.
 ## Next section
 In the next section, we will set up Git to work with your GitHub account.
 
-### [03 - Git](files/03_git.md)
+### [03 - Git](03_git.md)
 

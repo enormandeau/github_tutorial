@@ -14,5 +14,5 @@
 
 ## Next section
 
-### [06 - Conclusion](files/06_conclusion.md)
+### [06 - Conclusion](06_conclusion.md)
 

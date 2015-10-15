@@ -26,5 +26,5 @@
 
 ## Next section
 
-### [05 - Advanced notions](files/05_advanced_notions.md)
+### [05 - Advanced notions](05_advanced_notions.md)
 

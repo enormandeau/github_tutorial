@@ -15,5 +15,5 @@
 ## Next section
 In the next section...
 
-### [04 - Basic Workflow](files/04_basic_workflow.md)
+### [04 - Basic Workflow](04_basic_workflow.md)
 
