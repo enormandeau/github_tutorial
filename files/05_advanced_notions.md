@@ -13,6 +13,7 @@
 ## Creating aliases for common Git commands
 
 ## Next section
+In the next section...
 
 ### [06 - Conclusion](06_conclusion.md)
 

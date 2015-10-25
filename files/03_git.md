@@ -10,6 +10,22 @@
 
 ## Installation (Linux, Mac, Windows)
 
+### Linux (Debian or Ubuntu derived)
+
+Installation is simple:
+
+```
+sudo apt-get install git
+```
+
+### Mac OSX
+
+**TODO**
+
+### Windows
+
+**TODO**
+
 ## Setup
 
 ## Next section
