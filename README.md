@@ -52,8 +52,8 @@ After going trough this tutorial, you will:
 ### [03 - Git](files/03_git.md)
 - Overview of Git
 - Graphical Interface vs Command Line
-- Installation (Linux, Mac, Windows)
-- Setup
+- Using Linux via Terminal.com
+- Installation and Setup
 
 ### [04 - Basic Workflow](files/04_basic_workflow.md)
 - Creating a new project
