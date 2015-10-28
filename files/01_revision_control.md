@@ -12,20 +12,20 @@ needed.
 A revision control system, like Git, tracks changes made to files over time and
 keeps a copy of older versions. It also works as a log of progress by storing
 messages that describe these changes. This process helps you organize your
-analysis code into a working state. When used in combination with GitHub, a
-Git project hosting service, your project can be easily be shared with others,
-making your research more reproducible. Finally, it also greatly facilitates
-collaboration. Even if you are the only contributor to your project, hosting
-it online increases your visibility, which is good for your career!
+analysis code into a working state. When used in combination with GitHub, a Git
+project hosting service, your project can easily be shared with others, making
+your research more reproducible. Finally, it also greatly facilitates
+collaboration. Even if you are the only contributor to your project, hosting it
+online increases your visibility, which is good for your career!
 
 ## Why chose Git and GitHub?
-Git and GitHub are the most used combo by scientists to share their projects.
-There are tons of online ressources about how to get started and use Git and
-GitHub, so getting help is easy.
+Git and GitHub are the combo that is most used by scientists to share their
+projects. There are tons of online ressources about how to get started with Git
+and GitHub, so getting help is easy.
 
 ## Next section
-In the next section, we will discover GitHub, how to create an account and
-a new project, also know as a repository.
+In the next section, we will discover GitHub, including how to create an
+account and start a new project, also know as a repository.
 
 ### [02 - GitHub](02_github.md)
 
