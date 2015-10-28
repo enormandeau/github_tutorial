@@ -60,7 +60,8 @@ To modify the `README.md` file directly from GitHub:
 - Click on the pen in the upper right portion of the file
 - Copy the following text to the `README.md` file:
 
-```
+--- Copy below ---
+
 ## This is a level 2 title
 
 - This
@@ -74,13 +75,14 @@ Here is a command: `echo "Hello!"`
 
 Here is a longer piece of code:
 
-\`\`\`
+```
 for i in Git is fun!
 do
     echo $i
 done
-\`\`\`
 ```
+
+--- Copy above ---
 
   - Click on the `Commit changes` button on the bottom
   - Your changes are now effective and visible!
