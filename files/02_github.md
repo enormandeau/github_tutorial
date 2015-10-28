@@ -80,7 +80,12 @@ Here is a command: `echo "Hello!"`
 In order to test how Git works, we will use a training project containing a bit
 of data and some basic R code to produce figures. You do not need to know how
 to program in R to follow this example. We will introduce the changes to the
-code together.
+code together. To get the repository:
+
+- Got to [this repository on GitHub](https://github.com/enormandeau/github_repository)
+- Click on the `Fork` button near the upper right of the screen
+
+This will create a personal copy of the repository for you to work with.
 
 ## Next section
 In the next section, we will set up Git to work with your GitHub account.
