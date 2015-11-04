@@ -88,7 +88,8 @@ code together. To get the repository:
 This will create a personal copy of the repository for you to work with.
 
 ## Next section
-In the next section, we will set up Git to work with your GitHub account.
+In the next section, we will set up a Terminal.com account from which we will
+install Git and set it to work with your GitHub account.
 
 ### [03 - Git](03_git.md)
 

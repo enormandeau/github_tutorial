@@ -8,8 +8,7 @@
 ## Downloading a repository from GitHub
 
 - Clicking the `Download ZIP` link
-- Copy the clone URL on the main page of the repository, and use `git clone
-  <URL>` in
+- Copy the URL on the main page of the repository, and use `git clone <URL>` in
   the terminal
   
 ## Git basic workflow
@@ -42,7 +41,7 @@ Here are some basic effects:
 ## Differences among files and versions
 
 ## Next section
-In the next section...
+In the next section, we will briefly look at more advanced Git techniques.
 
 ### [05 - Advanced notions](05_advanced_notions.md)
 

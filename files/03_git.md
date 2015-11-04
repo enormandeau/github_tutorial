@@ -2,6 +2,9 @@
 
 ## Overview of Git
 
+Git is the revision control system behind GitHub. Git's role is to help making
+code development more organized and to facilitate collaboration.
+
 ## Graphical Interface vs Command Line
 
 - We will use the command line to understand the process
@@ -28,7 +31,7 @@ The only ones we want to use are `Terminal`, `Files`, and `Editor`, so you can
 click on the other ones (`Browser` and `Chat`) to remove them. If you click on
 the arrows after the name, the selected section will take the whole screen.
 
-## Installation and Setup
+## Installing Git
 
 Installing git on the Linux virtual machine is simple. Type the following code
 in the terminal:
@@ -37,12 +40,15 @@ in the terminal:
 sudo apt-get install git
 ```
 
-TODO:
+## Git setup
 
-We now need to setup our Linux terminal to integrate well with GitHub
+We now need to setup our Linux terminal to integrate well with GitHub. We
+follow the official [GitHub setup help page](https://help.github.com/articles/set-up-git/)
+for this.
 
 ## Next section
-In the next section...
+In the next section, we will explore the standard Git workflow with some
+exercices. We will create and modify a repository and learn the ropes of Git.
 
 ### [04 - Basic Workflow](04_basic_workflow.md)
 
