@@ -86,7 +86,6 @@ After going trough this tutorial, you will:
 
 - Use Git and GitHub
 - Share and collaborate
-<a href="http://github.com/" target="_blank">Main page</a>
 
 ## Licence
 
