@@ -12,7 +12,7 @@ development more structured and to facilitate collaboration**.
 - It is easier since there are multiple Graphical Interfaces available
 - You can use a Graphical Interface in the future
 
-## Using Linux from Terminal
+## Using Linux from Terminal.com
 
 In order to try git, we will be using virtual Linux machines available online.
 To get started, head to
@@ -41,19 +41,25 @@ research money on informatics equipment.
 
 ## Installing Git
 
-Installing git on the Linux virtual machine is simple. Type the following code
-in the terminal:
+Installing git on the terminal snapshot is simple. Type the following code in
+the terminal:
 
 ```
 apt-get install git
 ```
 
-If you are using your own computer, you will need to add `sudo` in front of the
-command:
+If you are using your own Linux computer, you will need to add `sudo` in front
+of the command:
 
 ```
 sudo apt-get install git
 ```
+
+To install git on a Mac, Windows or non Debian based Linux distribution, follow
+the instructions on the
+[git installation page](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+However, if you are using Windows, the following parts of the tutorial may not
+work for you. This is why we suggest that you use the Terminal.com option.
 
 ## Git setup
 

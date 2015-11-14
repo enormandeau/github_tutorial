@@ -32,18 +32,36 @@ alias gg='echo ">>> Branches"; \
 
 ## Forking and pull requests
 
+When you fork a project on GitHub, you can then clone it using `git clone
+<URL>`. If you make changes and push them back, you can then go to your forked
+repository and click the `Pull request` on the right side of the screen to
+initiate a pull request. This means that the original author of the repository
+will receive a request to include your changes into his code. This is one of
+the primary ways to collaborate at developing code with GitHub.
+
 ## Working with branches
+
+TODO
 
 ## Reseting
 
+TODO
+
 ## Creating and pushing tags
+
+TODO
 
 ## Cherry picking
 
+TODO
+
 ## Creating aliases for common Git commands
 
+TODO
+
 ## Next section
-In the next section...
+
+In the next section, we conclude this brief tutorial.
 
 ### [06 - Conclusion](06_conclusion.md)
 
