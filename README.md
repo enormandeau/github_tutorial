@@ -4,7 +4,7 @@
 
 **This tutorial is under construction and is mostly an empty template. Come have a look later!**
 
-The tutorial will be used in a workshop on 2015-11-18, so stay tuned!
+The tutorial should be used in a workshop on 2015-11-18, so stay tuned!
 
 ![be social](images/be-social.gif)
 
@@ -86,6 +86,7 @@ After going trough this tutorial, you will:
 
 - Use Git and GitHub
 - Share and collaborate
+<a href="http://github.com/" target="_blank">Main page</a>
 
 ## Licence
 
@@ -98,6 +99,6 @@ After going trough this tutorial, you will:
   href="https://github.com/enormandeau/github_tutorial"
   property="cc:attributionName" rel="cc:attributionURL">Eric Normandeau</a> is
   licensed under a <br/><a rel="license"
-  href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution
+  href="http://creativecommons.org/licenses/by/4.0/" target="_blank">Creative Commons Attribution
   4.0 International License
   </a>.
