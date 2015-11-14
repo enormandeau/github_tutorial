@@ -45,6 +45,13 @@ Installing git on the Linux virtual machine is simple. Type the following code
 in the terminal:
 
 ```
+apt-get install git
+```
+
+If you are using your own computer, you will need to add `sudo` in front of the
+command:
+
+```
 sudo apt-get install git
 ```
 
@@ -54,6 +61,10 @@ We now need to setup git to integrate with GitHub. We follow the official
 <a href="https://help.github.com/articles/set-up-git/"
 target="_blank">GitHub setup help page</a>
 for this.
+
+We can also setup git so it remembers our password for some time by following
+<a href=""https://help.github.com/articles/caching-your-github-password-in-git/
+target="_blank">these instructions</a>.
 
 ## Next section
 In the next section, we will explore the standard Git workflow with some
