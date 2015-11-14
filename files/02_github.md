@@ -31,13 +31,14 @@ target="_blank">Projects repositories</a>
 ### Example Project
 
 Let's look at an example project:
-<a href="http://github.com/enormandeau/meditation-timer" target="_blank">Example project</a>
+<a href="http://github.com/enormandeau/meditation-timer"
+target="_blank">Example project</a>
 
-This project contains a `data` folder, some files, including a script, a
-licence and a `README.md` file. The `README.md` file is very important. It is
-used by GitHub to create the rest of the page that describes the project. It is
-very useful to have such a `README.md` file and to use it to describe the
-project, how to install or use the scripts, and the license information.
+This project contains a `data` folder with a text file, a main script
+(`planets.sh`), and a `README.md` file. The `README.md` file is very important.
+It is used by GitHub to create the page that describes the project. It is very
+useful to have such a `README.md` file and to use it to describe the project,
+how to install or use the scripts, and display the license information.
 
 ## Creating an account
 
@@ -92,16 +93,19 @@ Here is a command: `echo "Hello!"`
 
 ## Forking a project
 
-In order to test how Git works, we will use a training project. You do not need
-to know how to program in R to follow this example. We will introduce the
-changes to the code together. To get the repository:
+During this Git and GitHub tutorial, we will use a training project about the
+plantes of the solar system. We will use a simple bash script and small text
+files. You do not need to know how to program in bash to follow this example.
+We will introduce the changes to the code and the data files together. To get
+the repository:
 
 - Go to
-<a href="http://github.com/enormandeau/github_repository" target="_blank">this repository on GitHub</a>
+<a href="http://github.com/enormandeau/planets"
+target="_blank">this repository on GitHub</a>
 - Click on the `Fork` button near the upper right of the screen
 
-This will create a copy of the project for you. You own this copy and will be
-able to modify it as you wish.
+This will create a copy of the `Planets` repository for you. You own this copy
+and will be able to modify it during the tutorial.
 
 ## Next section
 

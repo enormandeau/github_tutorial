@@ -67,8 +67,10 @@ We can also setup git so it remembers our password for some time by following
 target="_blank">these instructions</a>.
 
 ## Next section
-In the next section, we will explore the standard Git workflow with some
-exercices. We will create and modify a repository and learn the ropes of Git.
+In the next section, we will explore the standard Git workflow. We will be
+using the `Planets` repository that you forked from here
+<a href="http://github.com/enormandeau/planets"
+target="_blank">here</a>.
 
 ### [04 - Basic Workflow](04_basic_workflow.md)
 

@@ -8,8 +8,7 @@
 ## Downloading a repository from GitHub
 
 - Clicking the `Download ZIP` link
-- Copy the URL on the main page of the repository, and use `git clone <URL>` in
-  the terminal
+- Cloning project with `git clone <Project URL>`
   
 ## Git basic workflow
 
@@ -21,11 +20,26 @@
 - Send commit to GitHub `git push`
 - View log of commits with messages `git log`
   
+## Differences among files and versions
+
+- Show current uncommited changes with `git diff`
+- Display history of changes with `git log`
+- Better history `git log --oneline --color --graph --all --decorate`
+- Create an alias for git log:
+
+```
+alias gg='echo ">>> Branches"; \
+    git branch; \
+    echo; \
+    echo ">>> Graph"; \
+    git log --oneline --color --graph --all --decorate'
+```
+
 ## Using markdown in your README.md
 
 Any `markdown` formatting you put in your README.md file will be rendered
 nicely on your repository page. For example, this whole course has been created
-as a repository of files containing `markdown` formatting.
+as a repository of `markdown` files that link to each other.
 
 Here are some basic effects:
 
@@ -37,8 +51,6 @@ Here are some basic effects:
 - Use `#` `##` `###` for level 1, 2, and 3 titles
 - Use `[Text](link)` to insert html links
 - Use `![Text](image-location)` to insert images
-
-## Differences among files and versions
 
 ## Next section
 In the next section, we will briefly look at more advanced Git techniques.
