@@ -4,6 +4,8 @@ This section contains notions and examples that are more advanced. The goal is
 not to be exhaustive about it but just to make you aware that these subjects
 exist so that you know about them when you may need them in the future.
 
+**NOTE:** This section is still a work in progress.
+
 ## Creating aliases
 
 After a while, typing the git command may feel tedious. Creating a few short

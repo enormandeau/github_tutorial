@@ -1,11 +1,12 @@
 # Conclusion
 
-TODO:
-- Wrap up
+TODO Wrap up
 
 ## Use Git and GitHub
-- List main uses
+
+TODO List main uses
 
 ## Share and collaborate
-- Recap how it can be used effectively
+
+TODO Recap how it can be used effectively
 
