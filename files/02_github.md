@@ -4,8 +4,10 @@
 In this section, we look at the different parts of GitHub and at a user
 account.
 
-### Main Page When you do not have an account the GitHub main page offers you
-to search among the existing projects or to create an account. <a href="http://github.com/" target="_blank">Main page</a>
+### Main Page
+When you do not have an account the GitHub main page offers you to search among
+the existing projects or to create an account. <a href="http://github.com/"
+target="_blank">Main page</a>
 
 ### User Page
 The user pages show an avatar of the users and list their projects. Only the
