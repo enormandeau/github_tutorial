@@ -20,7 +20,8 @@ To get started, head to
 and create an account.  From there, we will be using an already available
 machine (or Snap). We will use
 <a href="https://www.terminal.com/snapshot/987f8d702dc0a6e8158b48ccd3dec24f819a7ccb2756c396ef1fd7f5b34b7980" target="_blank">this snapshot</a>.
-Leave the default settings as they are.
+Leave the default settings as they are and press the `Start` button on the
+bottom right.
 
 Once the virtual machine is started, your screen will be divided in sections.
 The only ones we want to use are `Terminal`, `Files`, and `Editor`, so you can
@@ -33,7 +34,7 @@ instances cost 0.6 cents per hour and the billing is done on an hourly basis,
 this means you get two free hours at the start, which should be enough to go
 through the tutorial. However, the micro instances are really cheap and adding
 one dollar to your balance will give you more than a hundred hours to use micro
-instances. Finally, even for more expansive instances, the pricing is very
+instances. Finally, even for more expensive instances, the pricing is very
 competitive with other major cloud services available and you should at least
 think of the potential use of Terminal in your research as a way of saving
 research money on informatic equipment.
@@ -49,8 +50,7 @@ sudo apt-get install git
 
 ## Git setup
 
-We now need to setup our Linux terminal to integrate well with GitHub. We
-follow the official
+We now need to setup git to integrate with GitHub. We follow the official
 <a href="https://help.github.com/articles/set-up-git/"
 target="_blank">GitHub setup help page</a>
 for this.
