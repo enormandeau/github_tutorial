@@ -9,9 +9,15 @@ The tutorial should be used in a workshop on 2015-11-18, so stay tuned!
 ![be social](images/be-social.gif)
 
 ## An introduction to Git and GitHub
-This tutorial covers the basics of the Git version control tool in combination with the popular GitHub web platform. It should be useful to anyone desiring to learn about Git and GitHub but is specifically aimed at students and academics who program in the context of their research and want to learn more about social coding.
+
+This tutorial covers the basics of the Git version control tool in combination
+with the popular GitHub web platform. It should be useful to anyone desiring to
+learn about Git and GitHub but is specifically aimed at students and academics
+who program in the context of their research and want to learn more about
+social coding.
 
 ## Why learn Git and GitHub?
+
 By doing so, you should improve at:
 
 - Increasing your online visibility
@@ -31,6 +37,7 @@ work** to get you started, but **it can also be fun to learn**. Let the geeky
 part of you enjoy this. You don't have to be a scientist all the time!
 
 ## What to expect from this tutorial
+
 After going trough this tutorial, you will:
 - Understand what revision control is about
 - Know the basics of how to use Git and GitHub from the command line
@@ -40,22 +47,26 @@ After going trough this tutorial, you will:
 ## Table of contents
 
 ### [01 - Revision control from 10,000 feet](files/01_revision_control.md)
+
 - What it is
 - How it works
 - How it can help you
 - Why chose Git and GitHub?
 
 ### [02 - GitHub](files/02_github.md)
+
 - Overview of GitHub
 - Creating an account
 
 ### [03 - Git](files/03_git.md)
+
 - Overview of Git
 - Graphical Interface vs Command Line
 - Using Linux via Terminal.com
 - Installation and Setup
 
 ### [04 - Basic Workflow](files/04_basic_workflow.md)
+
 - Creating a new project
 - Downloading a repository from GitHub
 - Git basic workflow
@@ -63,6 +74,7 @@ After going trough this tutorial, you will:
 - Differences among files and versions
 
 ### [05 - Advanced notions](files/05_advanced_notions.md)
+
 - Forking and pull requests
 - Working with branches
 - Reseting
@@ -71,10 +83,12 @@ After going trough this tutorial, you will:
 - Creating aliases for common Git commands
 
 ### [06 - Conclusion](files/06_conclusion.md)
+
 - Use Git and GitHub
 - Share and collaborate
 
 ## Licence
+
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img
   alt="Creative Commons Licence" style="border-width:0"
   src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br/><span

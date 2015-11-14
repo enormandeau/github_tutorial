@@ -1,22 +1,26 @@
 # GitHub ![octocat](../images/Octocat_small.png)
 
 ## A graphical overview of GitHub
+
 In this section, we look at the different parts of GitHub and at a user
 account.
 
 ### Main Page
+
 When you do not have an account the GitHub, the main page offers you to search
 among the existing projects or to create an account.
 <a href="http://github.com/" target="_blank">Main page</a>
 Otherwise, it displays the activity of accounts and projects you are following.
 
 ### User Page
+
 The user pages show an avatar of the users and list their projects. Only the
 most popular projects are listed but by clicking on the `repository` tab, you
 can access all of a user's projects.
 <a href="http://github.com/enormandeau" target="_blank">User page</a>
 
 ### Projects (or repositories)
+
 In Git parlance, projects are called repositories. Repositories contain folders
 and files, as well as all the history information about the project, like the
 changes that were applied, when, by whom, and all the versions all the files
@@ -25,6 +29,7 @@ that have existed throughout the project's existence.
 target="_blank">Projects repositories</a>
 
 ### Example Project
+
 Let's look at an example project:
 <a href="http://github.com/enormandeau/meditation-timer" target="_blank">Example project</a>
 
@@ -35,6 +40,7 @@ very useful to have such a `README.md` file and to use it to describe the
 project, how to install or use the scripts, and the license information.
 
 ## Creating an account
+
 If you do not already have a GitHub account, we will now create one so that you
 can follow the tutorial. Please fill the following sections:
 
@@ -48,6 +54,7 @@ Congratulations! You now have a GitHub account. You will need to verify your
 email account before you can use it, so please do so now.
 
 ## Creating a test project
+
 Once you have validated your account, creating a new project is easy: 
 
 - Click on the `+` sign in the upper right and select `New repository`
@@ -60,6 +67,7 @@ Your empty directory has been created. You can now modify it, either directly
 from GitHub in your browser or on your computer.
 
 ## Editing the README file from GitHub
+
 To modify the `README.md` file directly from GitHub:
 
 - Click on the `README.md` link
@@ -83,6 +91,7 @@ Here is a command: `echo "Hello!"`
   - Your changes are now effective and visible!
 
 ## Forking a project
+
 In order to test how Git works, we will use a training project. You do not need
 to know how to program in R to follow this example. We will introduce the
 changes to the code together. To get the repository:
@@ -95,6 +104,7 @@ This will create a copy of the project for you. You own this copy and will be
 able to modify it as you wish.
 
 ## Next section
+
 In the next section, we will set up a Terminal.com account from which we will
 install Git and set it to work with your GitHub account.
 
