@@ -21,4 +21,3 @@ consult the Ressources section below for more advanced information.
 - [Git Cheat Sheet](http://www.cheat-sheets.org/saved-copy/git-cheat-sheet.pdf)
 - [Git Tower - Cheat Sheet](http://www.git-tower.com/blog/git-cheat-sheet/)
 - [GitHub - Git Cheat Sheet](https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf) Official GitHub git cheat sheet
-- 
