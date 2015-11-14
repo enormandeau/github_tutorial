@@ -108,7 +108,7 @@ Here are some basic effects that you can add to markdown files:
 - Use one `-` at the beginning of 2+ lines to create a list of items (like this one)
 - Use `*word*` to create *italic*
 - Use `**word**` to add **bold**
-- Use `\`code\`` to write inline code
+- Use `&#96;code&#96;` to write inline code
 - Use `\`\`\`lines of code\`\`\`` to write code on multiple lines
 - Use `#` `##` `###` for level 1, 2, and 3 titles
 - Use `[Text](link)` to insert html links
