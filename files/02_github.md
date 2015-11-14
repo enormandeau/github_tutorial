@@ -94,7 +94,7 @@ Here is a command: `echo "Hello!"`
 ## Forking a project
 
 During this Git and GitHub tutorial, we will use a training project about the
-plantes of the solar system. We will use a simple bash script and small text
+planets of the solar system. We will use a simple bash script and small text
 files. You do not need to know how to program in bash to follow this example.
 We will introduce the changes to the code and the data files together. To get
 the repository:

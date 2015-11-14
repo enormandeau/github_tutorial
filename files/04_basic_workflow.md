@@ -1,11 +1,27 @@
 # Basic Workflow
 
-## Creating a new project
+## Working on a project
 
-- Create a repository on [GitHub](https://github.com)
-- Include a README file (actually, it will be a README.md file)
-  
+Now that you have an active project, `Planets`, to work with, we will need to
+download it on your Terminal.com terminal to work on it.
+
 ## Downloading a repository from GitHub
+
+To get a local copy of your project, reach its GitHub page and copy the url
+link from your browser (eg: `https://www.github.com/username/planets`).
+
+In your terminal, type the following commands and replace <username> by your actual GitHub user name:
+
+```
+# Move to your home directory (for Terminal.com)
+cd /home/
+
+# Clone your GitHub repository locally
+git clone https://www.github.com/<username>/planets
+
+# Move to the project's folder
+cd planets
+```
 
 - Clicking the `Download ZIP` link
 - Cloning project with `git clone <Project URL>`
