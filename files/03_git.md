@@ -37,7 +37,7 @@ one dollar to your balance will give you more than a hundred hours to use micro
 instances. Finally, even for more expensive instances, the pricing is very
 competitive with other major cloud services available and you should at least
 think of the potential use of Terminal in your research as a way of saving
-research money on informatic equipment.
+research money on informatics equipment.
 
 ## Installing Git
 
