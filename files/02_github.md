@@ -4,21 +4,21 @@
 In this section, we look at the different parts of GitHub and at a user
 account.
 
-### Main Page
-When you do not have an account the GitHub main page offers you to search among
-the existing projects or to create an account. <a href="http://github.com/" target="_blank">Main page</a> [Main page](https://github.com)
+### Main Page When you do not have an account the GitHub main page offers you
+to search among the existing projects or to create an account. <a href="http://github.com/" target="_blank">Main page</a>
 
 ### User Page
 The user pages show an avatar of the users and list their projects. Only the
 most popular projects are listed but by clicking on the `repository` tab, you
-can access all of a user's projects. [User page](https://github.com/enormandeau)
+can access all of a user's projects. <a href="http://github.com/enormandeau" target="_blank">User page</a>
 
 ### Projects (or repositories)
 In Git parlance, projects are called repositories. Repositories contain folders
 and files, as well as all the history information about the project, like the
 changes that were applied, when, by whom, and all the versions all the files
 that have existed throughout the project's existence.
-[Projects](https://github.com/enormandeau?tab=repositories) (repositories)
+<a href="http://github.com/enormandeau?tab=repositories"
+target="_blank">Projects repositories</a>
 
 ### Example Project
 Let's look at an example project: [Example
