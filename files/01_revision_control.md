@@ -20,9 +20,10 @@ project, hosting it online **increases your visibility**, which is good for
 your career!
 
 ## Why chose Git and GitHub?
-Git and GitHub are the combo that is most used by scientists to share their
-projects. There are tons of online ressources about how to get started with Git
-and GitHub, so getting help is easy.
+There are many revision systems and online code hosting services. However, Git
+and GitHub are by far the most used by scientists. This means there are tons of
+online ressources about how to get started and using Git and GitHub, so getting
+help is easy.
 
 ## Next section
 In the next section, we will discover GitHub, including how to create an
