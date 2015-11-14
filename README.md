@@ -41,7 +41,6 @@ part of you enjoy this. You don't have to be a scientist all the time!
 After going trough this tutorial, you will:
 - Understand what revision control is about
 - Know the basics of how to use Git and GitHub from the command line
-- Know which graphical interfaces are available for your OS
 - Be able to start using GitHub to share and collaborate!
 
 ## Table of contents

@@ -1,6 +1,6 @@
 # GitHub ![octocat](../images/Octocat_small.png)
 
-## A graphical overview of GitHub
+## An overview of GitHub
 
 In this section, we look at the different parts of GitHub and at a user
 account.
