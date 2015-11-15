@@ -1,8 +1,29 @@
 # Advanced notions
 
-This section contains notions and examples that are more advanced. The goal is
-not to be exhaustive about it but just to make you aware that these subjects
-exist so that you know about them when you may need them in the future.
+This section contains notions and examples that are slightly more advanced. The
+goal is not to be exhaustive nor to cover very advanced subjects.
+
+## Using markdown in your README.md
+
+Each project should have a `README` file. If you create a file named
+`README.md`, GitHub will create an HTML version of it on your repository's main
+page.
+
+Any `markdown` formatting you put in your README.md file will be rendered
+nicely on your GitHub repository page. For example, this whole course has been
+created as a repository of `markdown` files that link to each other.
+
+Here are some basic effects that you can add to markdown files:
+
+- Use one `-` at the beginning of 2+ lines to create a list of items (like this one)
+- Use `*word*` to create *italic*
+- Use `**word**` to add **bold**
+- Use <code>\`code\`</code> to write in-line code
+- Use <code>\`\`\`lines of code\`\`\`</code> to write code on multiple lines
+- Use `#` `##` `###` for level 1, 2, and 3 titles
+- Use `[Text](link)` to insert html links
+- Use `![Text](image-location)` to insert images
+- Since markdown is translated into HTML, you can use HTML in your files
 
 ## Ignoring certain files
 
@@ -49,6 +70,19 @@ possible that the changes will be impossible to merge automatically. In these
 more complicated cases, you will need to do a manual merge. This is outside the
 scope of this tutorial but see the Ressources in the Conclusion section.
 
+## Forking and pull requests
+
+When you fork a project on GitHub, you can then clone it using `git clone
+<URL>`. If you make changes and push them back, you can then go to your forked
+repository and click the `Pull request` on the right side of the screen to
+initiate a pull request. This means that the original author of the repository
+will receive a request to include your changes into his code. This is one of
+the primary ways to collaborate at developing code with GitHub.
+
+## Creating and using branches
+
+TODO Introduce branches, `git branch`, and branch-related gotchas
+
 ## Creating aliases
 
 After a while, typing the git command may feel tedious. Creating a few short
@@ -72,15 +106,6 @@ alias gg='echo ">>> Branches"; \
     echo ">>> Graph"; \
     git log --oneline --color --graph --all --decorate'
 ```
-
-## Forking and pull requests
-
-When you fork a project on GitHub, you can then clone it using `git clone
-<URL>`. If you make changes and push them back, you can then go to your forked
-repository and click the `Pull request` on the right side of the screen to
-initiate a pull request. This means that the original author of the repository
-will receive a request to include your changes into his code. This is one of
-the primary ways to collaborate at developing code with GitHub.
 
 ## Next section
 

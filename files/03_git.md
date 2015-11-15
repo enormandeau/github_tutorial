@@ -17,7 +17,7 @@ development more structured and to facilitate collaboration**.
 In order to try git, we will be using virtual Linux machines available online.
 To get started, head to
 <a href="http://www.terminal.com" target="_blank">Terminal</a>
-and create an account.  From there, we will be using an already available
+and create an account. From there, we will be using an already available
 machine (or Snap). We will use
 <a href="https://www.terminal.com/snapshot/987f8d702dc0a6e8158b48ccd3dec24f819a7ccb2756c396ef1fd7f5b34b7980" target="_blank">this snapshot</a>.
 Leave the default settings as they are and press the `Start` button on the
