@@ -46,13 +46,14 @@ After going through this tutorial, you will:
 
 ### [01 - Revision control from 10,000 feet](files/01_revision_control.md)
 
-- What is revision control and how does it work?
-- How does revision control help your projects?
+- What is revision control?
+- How can revision control help you?
 - Why choose Git and GitHub?
 
 ### [02 - GitHub](files/02_github.md)
 
-- Overview of GitHub and getting started
+- Overview of GitHub
+- Getting started
 
 ### [03 - Git](files/03_git.md)
 
