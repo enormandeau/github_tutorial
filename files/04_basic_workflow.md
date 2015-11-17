@@ -3,12 +3,13 @@
 ## Working on a project
 
 Now that you have an active project, `Planets`, to work with, we will need to
-download it on your Terminal.com terminal to work on it.
+download it on your Terminal.com terminal (or standard terminal) to work on it.
 
 ## Downloading a repository from GitHub
 
-To get a local copy of your project, reach its GitHub page and copy the url
-link from your browser (eg: `https://www.github.com/username/planets`).
+To get a local copy of your project, go to the GitHub page of the repo and copy the url
+link from your browser (eg: `https://www.github.com/username/planets`). There is also a link that
+can be copied from the right hand side of the window, `HTTPS clone URL` and this can alternately be used.
 
 In your terminal, type the following commands and replace <username> by your actual GitHub user name:
 
@@ -52,7 +53,7 @@ add a file named `Mars`. Double-click on it to open it and add a one-line
 description of the planet Mars, for example:
 
 ```
-Redish planet. Could this be our next destination?
+Reddish planet. Could this be our next destination?
 ```
 
 ### Editing files
@@ -136,6 +137,10 @@ these changes will...`. Here are some examples of good commit messages:
 
 TODO git push
 
+### Updating (pulling)
+
+TODO git pull
+
 ### Try adding Venus to the Solar System
 
 Use the same steps to add the Venus planet:
@@ -184,8 +189,7 @@ TODO `git checkout`
 
 ## Interlude
 
-At this point, you have learned about the commands that make about 90% of a
-normal git workflow. It 
+The commands described above give you most of what you will need to use git successfully.
 
 ## Next section
 

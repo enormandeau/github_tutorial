@@ -11,9 +11,9 @@ wise to also keep backups of your project folder in case you break something.
 Later, you won't need these backups anymore.
 
 This tutorial didn't cover more advanced material. Interested users should
-consult the Ressources section below for more advanced information.
+consult the Resources section below for more advanced information.
 
-## Ressources
+## Resources
 
 - [Hello World](https://guides.github.com/activities/hello-world/) A quick introduction to git and GitHub
 - [GitHub - Git Cheat Sheet](https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf) Official GitHub git cheat sheet

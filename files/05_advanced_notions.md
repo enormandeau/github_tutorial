@@ -16,16 +16,16 @@ created as a repository of `markdown` files that link to each other.
 Here are some basic effects that you can add to markdown files:
 
 - Use one `-` at the beginning of 2+ lines to create a list of items (like this one)
-- Use `*word*` to create *italic*
-- Use `**word**` to add **bold**
+- Use `*word*` to create *italics*
+- Use `**word**` to add **bold font**
 - Use <code>\`code\`</code> to write in-line code
 - Use <code>\`\`\`lines of code\`\`\`</code> to write code on multiple lines
-- Use `#` `##` `###` for level 1, 2, and 3 titles
+- Use `#` `##` `###` for level 1, 2, and 3 titles (level 1 being largest font)
 - Use `[Text](link)` to insert html links
 - Use `![Text](image-location)` to insert images
 - Since markdown is translated into HTML, you can use HTML in your files
 
-## Ignoring certain files
+## Ignoring certain files from git
 
 Git uses `.gitignore` files to know which files should be tracked and which
 should be ignored. Git is very good at tracking small text files. It is very
@@ -34,7 +34,7 @@ you expect your project folder to contain such files during your normal use but
 do not want to track them, you should use the `.gitignore` file to exclude
 them.
 
-Here is the content of a fictive `.gitignore` file that ignores temporary
+Here is the content of a sample `.gitignore` file that ignores temporary
 files, PDFs and images:
 
 ```
@@ -68,7 +68,7 @@ the other hand, if you work on the project in computer A for some time and,
 during the same period, you also work on the project on computer B, it is
 possible that the changes will be impossible to merge automatically. In these
 more complicated cases, you will need to do a manual merge. This is outside the
-scope of this tutorial but see the Ressources in the Conclusion section.
+scope of this tutorial but see the Resources in the Conclusion section.
 
 ## Forking and pull requests
 
