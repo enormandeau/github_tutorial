@@ -11,15 +11,16 @@ when needed.
 
 ## How can revision control help you?
 
-A revision control system, like Git, tracks changes made to files over time and
-**keeps a copy of older versions**. It also works as a log of progress by
-storing messages that describe these changes. This process helps you **organize
-your analysis code into a working state**. When used in combination with
-GitHub, a Git project hosting service, **your project can easily be shared with
-others**, making your research more reproducible. Finally, it also greatly
-**facilitates collaboration**. Even if you are the only contributor to your
-project, hosting it online **increases your visibility**, which is good for
-your career!
+A revision control system, like Git:
+
+- Tracks changes made to files over time
+- Keeps a copy of all older versions
+- Works as a log of progress by storing messages that describe changes
+- Helps you organize your analysis code into a working state
+- Help you share your project with others
+- Makes your research more reproducible
+- Greatly facilitates collaboration
+- Increases your visibility, which is good for your career!
 
 ## Why chose Git and GitHub?
 
