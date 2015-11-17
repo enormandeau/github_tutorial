@@ -11,10 +11,12 @@ We will use the command line to understand the process. As there are many
 graphical interfaces, this is a simple way to understand the necessary
 commands; later you can use whichever graphical interface you choose.
 
-## Using Linux from Terminal.com
+## Using Linux via Terminal.com
 
-**This section is optional**, if you have a computer with command line already
-prepared (Mac, Linux) you may use Terminal or similar.
+**This section is optional**. If you have a Linux computer and can use the
+command line, you may skip to the next section. If you have a MacOS computer
+and know how to install git and use the terminal, you can also skip to the next
+section.
 
 In order to try Git, we will be using virtual Linux machines available online.
 To get started, head to
@@ -32,8 +34,8 @@ the arrows after the name, the selected section will take the whole screen.
 
 ## Installing Git
 
-Installing Git on the terminal snapshot is simple. Type the following code in
-the terminal:
+Installing Git on the Terminal.com Linux snapshot is simple. Type the following
+code in the terminal:
 
 ```
 apt-get install git
@@ -52,7 +54,7 @@ the instructions on the
 However, if you are using Windows, the following parts of the tutorial may not
 work for you. This is why we suggest that you use the Terminal.com option.
 
-## Git setup
+## Setting up Git
 
 We now need to setup Git to integrate with GitHub. We follow the official
 <a href="https://help.github.com/articles/set-up-git/"

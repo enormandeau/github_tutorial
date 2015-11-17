@@ -43,7 +43,11 @@ essential to have a `README.md` for your repository, as it is used to describe
 the project, the ways to install or use the scripts, and to display the license
 information.
 
-## Creating an account
+## Getting started
+
+Let's dive in and actually play with GitHub.
+
+### Creating an account
 
 If you do not already have a GitHub account, we will now create one so that you
 can follow the tutorial. Please fill the following sections:
@@ -57,7 +61,7 @@ Then choose the `Free` plan and click on `Finish sign up`.
 Congratulations! You now have a GitHub account. You will need to verify your
 email account before you can use it, so please do so now.
 
-## Creating a test project
+### Creating a test project
 
 Once you have validated your account, creating a new project is easy: 
 
@@ -70,7 +74,7 @@ Once you have validated your account, creating a new project is easy:
 Your empty directory has been created. You can now modify it, either directly
 from GitHub in your browser or on your computer.
 
-## Editing the README file from GitHub
+### Editing the README file from GitHub
 
 To modify the `README.md` file directly from GitHub:
 
@@ -94,7 +98,7 @@ Here is a command: `echo "Hello!"`
   - Click on the `Commit changes` button on the bottom
   - Your changes are now effective and visible!
 
-## Forking a project
+### Forking a project
 
 During this Git and GitHub tutorial, we will use a training project about the
 planets of the solar system. We will use a simple bash script and small text
@@ -110,7 +114,7 @@ target="_blank">this repository on GitHub</a>
 This will create a copy of the `Planets` repository for you. You own this copy
 and will be able to modify it during the tutorial.
 
-## Next section
+### Next section
 
 In the next section, we will set up a Terminal.com account from which we will
 install Git and set it to work with your GitHub account.

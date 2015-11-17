@@ -1,16 +1,18 @@
 # Basic Workflow
 
-## Working on a project
+## Creating a new project
 
-Now that you have an active project, `Planets`, to work with, we will need to
-download it on your Terminal.com terminal (or standard terminal) to work on it.
+Normally, you would have to create a new project. But,now that you have an
+active project, `Planets`, to work with, we will download it on your
+Terminal.com terminal (or standard terminal) to work on it.
 
 ## Downloading a repository from GitHub
 
-To get a local copy of your project, go to the GitHub page of the repo and copy
-the url link from your browser (eg: `https://www.github.com/username/planets`).
-There is also a link that can be copied from the right hand side of the window,
-`HTTPS clone URL` and this can alternately be used.
+To get a local copy of your project, go to the GitHub page of the repository
+and copy the url link from your browser (eg:
+`https://www.github.com/username/planets`).  There is also a link that can be
+copied from the right hand side of the window, `HTTPS clone URL` and this can
+alternately be used.
 
 In your terminal, type the following commands and replace <username> by your
 actual GitHub user name:
@@ -26,7 +28,7 @@ git clone https://www.github.com/<username>/planets
 cd planets
 ```
 
-## Git basic workflow
+## Using the Git basic workflow
 
 In this section, we will gradually introduce changes to the `Planets` project
 and use Git and GitHub to track and release these changes.
@@ -158,7 +160,7 @@ Use the same steps to add the Venus planet:
 
 Congratulations! You have now mastered 90% of the important Git commands.
 
-## Visualize the project history
+## Visualizing the project history
 
 From time to time, you will want to look at the history of your project and
 potentially go back in time. To display the history, you can use the following
@@ -188,11 +190,6 @@ Now, you can see the history by typing `gl` in the terminal.
 ## Time travel
 
 TODO `git checkout`
-
-## Interlude
-
-The commands described above give you most of what you will need to use Git
-successfully.
 
 ## Next section
 

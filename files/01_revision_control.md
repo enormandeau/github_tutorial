@@ -2,7 +2,7 @@
 
 ![image](../images/00_ControlVersion.jpg)
 
-## What it revision control?
+## What is revision control?
 
 In a few words, revision control is the **management of changes to documents**.
 As programming and research projects get larger, it is useful, or even

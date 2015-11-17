@@ -31,9 +31,9 @@ By doing so, you will improve your ability to:
 - Show that your projects are alive
 - Track code changes and version features
 
-Git and GitHub can help you accomplish the above. However, **these methods
-require some work** to get you started, but **it can also be fun to learn**.
-Let the geeky part of you enjoy it!
+Git and GitHub can help you accomplish the above. You will need to spend some
+time with these tools to become proficient with them but this tutorial should
+get you started.
 
 ## What to expect from this tutorial
 
@@ -56,7 +56,7 @@ getting set up with Git to more advanced notions.
 
 ### [02 - GitHub](files/02_github.md)
 
-- Overview of GitHub
+- An overview of GitHub
 - Getting started
 
 ### [03 - Git](files/03_git.md)
@@ -72,21 +72,23 @@ getting set up with Git to more advanced notions.
 - Creating a new project
 - Downloading a repository from GitHub
 - Using the basic Git workflow
-- Creating a README.md using markdown
-- Compare differences among files and versions
+- Visualizing the project history
+- Traveling in Time
 
 ### [05 - Advanced notions](files/05_advanced_notions.md)
 
+- Using markdown in your README.md
+- Ignoring certain files from Git
+- Getting remote changes
 - Forking and pull requests
+- Creating and using branches
 - Working with branches
-- Reseting
-- Creating and pushing tags
-- Cherry picking
 - Creating aliases for common Git commands
 
 ### [06 - Conclusion](files/06_conclusion.md)
 
-- Using Git and GitHub to share and collaborate
+- Conclusion
+- Resources
 
 ## Licence
 

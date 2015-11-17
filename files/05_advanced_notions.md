@@ -84,7 +84,7 @@ the primary ways to collaborate at developing code with GitHub.
 
 TODO Introduce branches, `git branch`, and branch-related gotchas
 
-## Creating aliases
+## Creating aliases for common Git commands
 
 After a while, typing the git command may feel tedious. Creating a few short
 aliases can make your life easier. Here are a few examples you could include in

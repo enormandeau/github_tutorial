@@ -23,7 +23,7 @@ TODO Move the links to html links that open in new tab
 
 - [Hello World](https://guides.github.com/activities/hello-world/) A quick introduction to Git and GitHub
 - [GitHub - Git Cheat Sheet](https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf) Official GitHub Git cheat sheet
-- [Pro Git Book](http://git-scm.com/book/en/v2) A very complete ressource for Git
+- [Pro Git Book](http://git-scm.com/book/en/v2) A very complete resource for Git
 - [Visual Guide to Version Control](http://betterexplained.com/articles/a-visual-guide-to-version-control/)
 - [Git - The Simple Guide](http://rogerdudler.github.io/git-guide/) A visual introduction go Git
 - [Git Tips](https://github.com/git-tips/tips) How to and recipes
