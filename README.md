@@ -11,35 +11,34 @@ The tutorial should be used in a workshop on 2015-11-18, so stay tuned!
 ## An introduction to Git and GitHub
 
 This tutorial covers the basics of the Git version control tool in combination
-with the popular GitHub web platform. It should be useful to anyone desiring to
-learn about Git and GitHub but is specifically aimed at students and academics
-who program in the context of their research and want to learn more about
+with the popular GitHub web platform. It should be useful to anyone wanting to
+learn about Git and GitHub but is specifically designed for students and academics
+who program during their projects and want to learn more about
 social coding.
 
 ## Why learn Git and GitHub?
 
-By doing so, you should improve at:
+By doing so, you will improve your ability to:
 
-- Increasing your online visibility
-- Working on your code from anywhere
-- Collaborating with other researchers
-- Improving coding and analysis practices
-- Structuring your code and projects better
-- Sharing your code and embracing Open Science
-- Creating basic web pages to show your analyses
-- Creating easy documentation and tutorials
-- Showing that your projects are alive
-- Tracking code changes and versions
-- Promoting your career
+- Increase your online presence
+- Share your code and embrace Open Science
+- Collaborate with other researchers
+- Code from anywhere
+- Use best practices for coding and analysis
+- Structure your code and projects
+- Create basic web pages to show your analyses
+- Create easy documentation and tutorials
+- Show that your projects are alive
+- Track code changes and version features
 
-Git and GitHub can help you accomplish the above. However, **they require some
+Git and GitHub can help you accomplish the above. However, **these methods require some
 work** to get you started, but **it can also be fun to learn**. Let the geeky
-part of you enjoy this. You don't have to be a scientist all the time!
+part of you enjoy it!
 
 ## What to expect from this tutorial
 
-After going trough this tutorial, you will:
-- Understand what revision control is about
+After going through this tutorial, you will:
+- Understand what revision control is all about
 - Know the basics of how to use Git and GitHub from the command line
 - Be able to start using GitHub to share and collaborate!
 
@@ -47,15 +46,13 @@ After going trough this tutorial, you will:
 
 ### [01 - Revision control from 10,000 feet](files/01_revision_control.md)
 
-- What it is
-- How it works
-- How it can help you
-- Why chose Git and GitHub?
+- What is revision control and how does it work?
+- How does revision control help your projects?
+- Why choose Git and GitHub?
 
 ### [02 - GitHub](files/02_github.md)
 
-- Overview of GitHub
-- Creating an account
+- Overview of GitHub and getting started
 
 ### [03 - Git](files/03_git.md)
 
@@ -68,9 +65,9 @@ After going trough this tutorial, you will:
 
 - Creating a new project
 - Downloading a repository from GitHub
-- Git basic workflow
-- Using markdown in your README.md
-- Differences among files and versions
+- Using the basic Git workflow
+- Creating a README.md using markdown
+- Compare differences among files and versions
 
 ### [05 - Advanced notions](files/05_advanced_notions.md)
 
@@ -83,8 +80,7 @@ After going trough this tutorial, you will:
 
 ### [06 - Conclusion](files/06_conclusion.md)
 
-- Use Git and GitHub
-- Share and collaborate
+- Using Git and GitHub to share and collaborate
 
 ## Licence
 
