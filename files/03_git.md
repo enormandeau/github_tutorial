@@ -12,7 +12,7 @@ interfaces, this is a simple way to understand the necessary commands; later you
 can use whichever graphical interface you choose.
 
 ## Using Linux from Terminal.com
-This is optional, if you have a computer with command line already prepared (Mac, Linux)
+**This section is optional**, if you have a computer with command line already prepared (Mac, Linux)
 you may use Terminal or similar.
 
 In order to try git, we will be using virtual Linux machines available online.
@@ -28,17 +28,6 @@ Once the virtual machine is started, your screen will be divided in sections.
 The only ones we want to use are `Terminal`, `Files`, and `Editor`, so you can
 click on the other ones (`Browser` and `Chat`) to remove them. If you click on
 the arrows after the name, the selected section will take the whole screen.
-
-**Aside Note:** Terminal gives you 1 cent of credit when you create an account. As
-long as your balance remains positive, you can use the services. Since micro
-instances cost 0.6 cents per hour and the billing is done on an hourly basis,
-this means you get two free hours at the start, which should be enough to go
-through the tutorial. However, the micro instances are really cheap and adding
-one dollar to your balance will give you more than a hundred hours to use micro
-instances. Finally, even for more expensive instances, the pricing is very
-competitive with other major cloud services available and you should at least
-think of the potential use of Terminal in your research as a way of saving
-research money on informatics equipment.
 
 ## Installing Git
 
