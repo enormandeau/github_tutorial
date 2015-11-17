@@ -19,6 +19,8 @@ Have fun with your new toy!
 
 ## Resources
 
+TODO Move the links to html links that open in new tab
+
 - [Hello World](https://guides.github.com/activities/hello-world/) A quick introduction to git and GitHub
 - [GitHub - Git Cheat Sheet](https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf) Official GitHub git cheat sheet
 - [Pro Git Book](http://git-scm.com/book/en/v2) A very complete ressource for git
