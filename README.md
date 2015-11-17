@@ -60,7 +60,8 @@ After going through this tutorial, you will:
 - Overview of Git
 - Graphical Interface vs Command Line
 - Using Linux via Terminal.com
-- Installation and Setup
+- Installing Git
+- Setting up Git
 
 ### [04 - Basic Workflow](files/04_basic_workflow.md)
 
