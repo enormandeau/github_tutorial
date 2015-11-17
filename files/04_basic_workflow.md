@@ -137,6 +137,10 @@ these changes will...`. Here are some examples of good commit messages:
 
 TODO git push
 
+### Updating (pulling)
+
+TODO git pull
+
 ### Try adding Venus to the Solar System
 
 Use the same steps to add the Venus planet:
