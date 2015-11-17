@@ -2,14 +2,14 @@
 
 ![image](../images/00_ControlVersion.jpg)
 
-## What it is
+## What it revision control?
 
 In a few words, revision control is the **management of changes to documents**.
-As programming and research projects get larger, it is useful or even essential
+As programming and research projects get larger, it is useful, or even essential
 to be able to keep track of changes and be able to revert to earlier versions
 when needed.
 
-## How it can help you
+## How can revision control help you?
 
 A revision control system, like Git, tracks changes made to files over time and
 **keeps a copy of older versions**. It also works as a log of progress by
@@ -25,13 +25,13 @@ your career!
 
 There are many revision systems and online code hosting services. However, Git
 and GitHub are by far the most used by scientists. This means there are tons of
-online ressources about how to get started and using Git and GitHub, so getting
-help is easy.
+online resources on how to get started using Git and GitHub, and so getting
+help is easy!
 
 ## Next section
 
-In the next section, we will discover GitHub, including how to create an
-account and start a new project, also know as a repository.
+In the next section, we will start exploring GitHub, including how to create an
+account and start a new project (also known as a repository).
 
 ### [02 - GitHub](02_github.md)
 
