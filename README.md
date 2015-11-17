@@ -43,6 +43,8 @@ After going through this tutorial, you will:
 - Be able to start using GitHub to share and collaborate!
 
 ## Table of contents
+Use the links below to navigate to each section within this tutorial, from getting set up 
+with git to more advanced notions.
 
 ### [01 - Revision control from 10,000 feet](files/01_revision_control.md)
 
