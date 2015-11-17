@@ -1,6 +1,6 @@
 # Conclusion
 
-This concludes our brief introduction of git and GitHub geared toward
+This concludes our brief introduction of git and GitHub for
 scientists. You should now know the basics of how to setup and use both git and
 GitHub for small programming projects.
 
@@ -11,7 +11,11 @@ wise to also keep backups of your project folder in case you break something.
 Later, you won't need these backups anymore.
 
 This tutorial didn't cover more advanced material. Interested users should
-consult the Resources section below for more advanced information.
+consult the Resources section below for more advanced information. If you
+get stuck, search the internet. Lots of people are using git and GitHub, so
+finding help shouldn't be a problem.
+
+Have fun with your new toy!
 
 ## Resources
 
