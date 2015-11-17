@@ -2,9 +2,9 @@
 
 ## WARNING!
 
-**This tutorial is under construction and is mostly an empty template. Come have a look later!**
+**This tutorial is almost completed but still under construction**
 
-The tutorial should be used in a workshop on 2015-11-18, so stay tuned!
+The tutorial will be used in a workshop on 2015-11-18, so stay tuned!
 
 ![be social](images/be-social.gif)
 
