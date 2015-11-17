@@ -15,7 +15,7 @@ can use whichever graphical interface you choose.
 **This section is optional**, if you have a computer with command line already prepared (Mac, Linux)
 you may use Terminal or similar.
 
-In order to try git, we will be using virtual Linux machines available online.
+In order to try Git, we will be using virtual Linux machines available online.
 To get started, head to
 <a href="http://www.terminal.com" target="_blank">Terminal</a>
 and create an account. From there, we will be using an already available
@@ -31,7 +31,7 @@ the arrows after the name, the selected section will take the whole screen.
 
 ## Installing Git
 
-Installing git on the terminal snapshot is simple. Type the following code in
+Installing Git on the terminal snapshot is simple. Type the following code in
 the terminal:
 
 ```
@@ -45,7 +45,7 @@ of the command:
 sudo apt-get install git
 ```
 
-To install git on a Mac, Windows or non Debian based Linux distribution, follow
+To install Git on a Mac, Windows or non Debian based Linux distribution, follow
 the instructions on the
 [git installation page](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 However, if you are using Windows, the following parts of the tutorial may not
@@ -53,12 +53,12 @@ work for you. This is why we suggest that you use the Terminal.com option.
 
 ## Git setup
 
-We now need to setup git to integrate with GitHub. We follow the official
+We now need to setup Git to integrate with GitHub. We follow the official
 <a href="https://help.github.com/articles/set-up-git/"
 target="_blank">GitHub setup help page</a>
 for this.
 
-We can also setup git so it remembers our password for some time by following
+We can also setup Git so it remembers our password for some time by following
 <a href=""https://help.github.com/articles/caching-your-github-password-in-git/
 target="_blank">these instructions</a>.
 

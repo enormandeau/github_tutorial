@@ -27,11 +27,11 @@ cd planets
 ## Git basic workflow
 
 In this section, we will gradually introduce changes to the `Planets` project
-and use git and GitHub to track and release these changes.
+and use Git and GitHub to track and release these changes.
 
 ### Cloning the project
 
-To get a local git version of the `Planets` project, we will clone it from
+To get a local Git version of the `Planets` project, we will clone it from
 GitHub. In your terminal (from Terminal.com), type the following commands:
 
 ```
@@ -79,7 +79,7 @@ echo
 ### Visualizing changes to project
 
 We have added a planet in the `data` folder and modified the `planets.sh`
-scripts. It is now time to use git to record these changes in our project and
+scripts. It is now time to use Git to record these changes in our project and
 share them on GitHub.
 
 To see in what state our project is, we use:
@@ -100,7 +100,7 @@ The lines starting with a plus sign (`+`) were just added.
 
 ### Staging (tracking) files
 
-We now need to tell git that we want it to include this new file and the
+We now need to tell Git that we want it to include this new file and the
 changes to the `planets.sh` script in its history. The `git add` command can be
 used to add all the changes or to add files one by one. Here, we will add both
 files separately.
@@ -117,7 +117,7 @@ back to them.
 
 ### Commiting changes
 
-To tell git to include the changes selected with `git add`, we need to commit
+To tell Git to include the changes selected with `git add`, we need to commit
 them with:
 
 ```
@@ -154,7 +154,7 @@ Use the same steps to add the Venus planet:
 - Commit the changes with `git commit -m "Add the Venus planet"`
 - Upload the changes with `git push`
 
-Congratulations! You have now mastered 90% of the important git commands.
+Congratulations! You have now mastered 90% of the important Git commands.
 
 ## Visualize the project history
 
@@ -189,7 +189,7 @@ TODO `git checkout`
 
 ## Interlude
 
-The commands described above give you most of what you will need to use git successfully.
+The commands described above give you most of what you will need to use Git successfully.
 
 ## Next section
 

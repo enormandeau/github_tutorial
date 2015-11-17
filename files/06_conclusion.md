@@ -1,18 +1,18 @@
 # Conclusion
 
-This concludes our brief introduction of git and GitHub for
-scientists. You should now know the basics of how to setup and use both git and
+This concludes our brief introduction of Git and GitHub for
+scientists. You should now know the basics of how to setup and use both Git and
 GitHub for small programming projects.
 
-You can now start using git and GitHub to create, structure, and share your
+You can now start using Git and GitHub to create, structure, and share your
 projects, as well as collaborate on them. Git is very useful but there are ways
-in which you could mess-up a project. As you start using git, it is probably
+in which you could mess-up a project. As you start using Git, it is probably
 wise to also keep backups of your project folder in case you break something.
 Later, you won't need these backups anymore.
 
 This tutorial didn't cover more advanced material. Interested users should
 consult the Resources section below for more advanced information. If you
-get stuck, search the internet. Lots of people are using git and GitHub, so
+get stuck, search the internet. Lots of people are using Git and GitHub, so
 finding help shouldn't be a problem.
 
 Have fun with your new toy!
@@ -21,9 +21,9 @@ Have fun with your new toy!
 
 TODO Move the links to html links that open in new tab
 
-- [Hello World](https://guides.github.com/activities/hello-world/) A quick introduction to git and GitHub
-- [GitHub - Git Cheat Sheet](https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf) Official GitHub git cheat sheet
-- [Pro Git Book](http://git-scm.com/book/en/v2) A very complete ressource for git
+- [Hello World](https://guides.github.com/activities/hello-world/) A quick introduction to Git and GitHub
+- [GitHub - Git Cheat Sheet](https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf) Official GitHub Git cheat sheet
+- [Pro Git Book](http://git-scm.com/book/en/v2) A very complete ressource for Git
 - [Visual Guide to Version Control](http://betterexplained.com/articles/a-visual-guide-to-version-control/)
 - [Git - The Simple Guide](http://rogerdudler.github.io/git-guide/) A visual introduction go Git
 - [Git Tips](https://github.com/git-tips/tips) How to and recipes

@@ -1,4 +1,4 @@
-# Unofficial Introduction to GitHub for Scientists
+# Unofficial Introduction to Git and GitHub
 
 ## WARNING!
 
@@ -44,7 +44,7 @@ After going through this tutorial, you will:
 
 ## Table of contents
 Use the links below to navigate to each section within this tutorial, from getting set up 
-with git to more advanced notions.
+with Git to more advanced notions.
 
 ### [01 - Revision control from 10,000 feet](files/01_revision_control.md)
 

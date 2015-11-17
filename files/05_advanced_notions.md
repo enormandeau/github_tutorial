@@ -25,7 +25,7 @@ Here are some basic effects that you can add to markdown files:
 - Use `![Text](image-location)` to insert images
 - Since markdown is translated into HTML, you can use HTML in your files
 
-## Ignoring certain files from git
+## Ignoring certain files from Git
 
 Git uses `.gitignore` files to know which files should be tracked and which
 should be ignored. Git is very good at tracking small text files. It is very
