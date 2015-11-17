@@ -15,7 +15,8 @@ created as a repository of `markdown` files that link to each other.
 
 Here are some basic effects that you can add to markdown files:
 
-- Use one `-` at the beginning of 2+ lines to create a list of items (like this one)
+- Use one `-` at the beginning of 2+ lines to create a list of items (like this
+  one)
 - Use `*word*` to create *italics*
 - Use `**word**` to add **bold font**
 - Use <code>\`code\`</code> to write in-line code
@@ -86,8 +87,8 @@ TODO Introduce branches, `git branch`, and branch-related gotchas
 ## Creating aliases
 
 After a while, typing the git command may feel tedious. Creating a few short
-aliases can make your life easier. Here are a few examples you could include
-in your `.bashrc` file:
+aliases can make your life easier. Here are a few examples you could include in
+your `.bashrc` file:
 
 ```
 # Git

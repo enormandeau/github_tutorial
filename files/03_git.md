@@ -7,13 +7,14 @@ development more structured and to facilitate collaboration**.
 
 ## Graphical Interface vs Command Line
 
-We will use the command line to understand the process. As there are many graphical
-interfaces, this is a simple way to understand the necessary commands; later you
-can use whichever graphical interface you choose.
+We will use the command line to understand the process. As there are many
+graphical interfaces, this is a simple way to understand the necessary
+commands; later you can use whichever graphical interface you choose.
 
 ## Using Linux from Terminal.com
-**This section is optional**, if you have a computer with command line already prepared (Mac, Linux)
-you may use Terminal or similar.
+
+**This section is optional**, if you have a computer with command line already
+prepared (Mac, Linux) you may use Terminal or similar.
 
 In order to try Git, we will be using virtual Linux machines available online.
 To get started, head to

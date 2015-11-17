@@ -5,9 +5,9 @@
 ## What it revision control?
 
 In a few words, revision control is the **management of changes to documents**.
-As programming and research projects get larger, it is useful, or even essential
-to be able to keep track of changes and be able to revert to earlier versions
-when needed.
+As programming and research projects get larger, it is useful, or even
+essential to be able to keep track of changes and be able to revert to earlier
+versions when needed.
 
 ## How can revision control help you?
 

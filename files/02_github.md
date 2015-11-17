@@ -7,25 +7,26 @@ account.
 
 ### Main Page
 
-When you do not have an account with GitHub, the main page offers you the option to search
-among existing projects or to create an account.
+When you do not have an account with GitHub, the main page offers you the
+option to search among existing projects or to create an account.
 <a href="http://github.com/" target="_blank">Main page</a>
-Otherwise, if you have an account the main page displays the activity of accounts and
-projects you are following.
+Otherwise, if you have an account the main page displays the activity of
+accounts and projects you are following.
 
 ### User Page
 
-A user page shows an avatar of the user and lists their projects. Only the
-most popular projects of the user are listed, but by clicking on the `repository` tab, you
-can access all of a user's projects.
+A user page shows an avatar of the user and lists their projects. Only the most
+popular projects of the user are listed, but by clicking on the `repository`
+tab, you can access all of a user's projects.
 <a href="http://github.com/enormandeau" target="_blank">User page</a>
 
 ### Projects (or repositories)
 
 In Git parlance, projects are called repositories. Repositories contain folders
-and files, as well as all of the history information about the project (i.e. information about
-the applied changes, when they were made and by whom). In this way, you can obtain all of the 
-versions of all the files that have existed throughout the project's existence.
+and files, as well as all of the history information about the project (i.e.
+information about the applied changes, when they were made and by whom). In
+this way, you can obtain all of the versions of all the files that have existed
+throughout the project's existence.
 <a href="http://github.com/enormandeau?tab=repositories"
 target="_blank">Projects repositories</a>
 
@@ -37,9 +38,10 @@ target="_blank">Example project</a>
 
 This project contains a `data` folder with a text file, a main script
 (`planets.sh`), and a `README.md` file. The `README.md` file is very important.
-It is used by GitHub to create the page that describes the project. It is essential
-to have a `README.md` for your repository, as it is used to describe the project,
-the ways to install or use the scripts, and to display the license information.
+It is used by GitHub to create the page that describes the project. It is
+essential to have a `README.md` for your repository, as it is used to describe
+the project, the ways to install or use the scripts, and to display the license
+information.
 
 ## Creating an account
 

@@ -7,11 +7,13 @@ download it on your Terminal.com terminal (or standard terminal) to work on it.
 
 ## Downloading a repository from GitHub
 
-To get a local copy of your project, go to the GitHub page of the repo and copy the url
-link from your browser (eg: `https://www.github.com/username/planets`). There is also a link that
-can be copied from the right hand side of the window, `HTTPS clone URL` and this can alternately be used.
+To get a local copy of your project, go to the GitHub page of the repo and copy
+the url link from your browser (eg: `https://www.github.com/username/planets`).
+There is also a link that can be copied from the right hand side of the window,
+`HTTPS clone URL` and this can alternately be used.
 
-In your terminal, type the following commands and replace <username> by your actual GitHub user name:
+In your terminal, type the following commands and replace <username> by your
+actual GitHub user name:
 
 ```
 # Move to your home directory (for Terminal.com)
@@ -189,7 +191,8 @@ TODO `git checkout`
 
 ## Interlude
 
-The commands described above give you most of what you will need to use Git successfully.
+The commands described above give you most of what you will need to use Git
+successfully.
 
 ## Next section
 
