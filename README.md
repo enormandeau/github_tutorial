@@ -81,7 +81,6 @@ getting set up with Git to more advanced notions.
 - Ignoring certain files from Git
 - Getting remote changes
 - Forking and pull requests
-- Creating and using branches
 - Working with branches
 - Creating aliases for common Git commands
 

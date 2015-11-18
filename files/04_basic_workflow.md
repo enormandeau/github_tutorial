@@ -6,28 +6,6 @@ Normally, you would have to create a new project. But,now that you have an
 active project, `Planets`, to work with, we will download it on your
 Terminal.com terminal (or standard terminal) to work on it.
 
-## Downloading a repository from GitHub
-
-To get a local copy of your project, go to the GitHub page of the repository
-and copy the url link from your browser (eg:
-`https://www.github.com/username/planets`).  There is also a link that can be
-copied from the right hand side of the window, `HTTPS clone URL` and this can
-alternately be used.
-
-In your terminal, type the following commands and replace <username> by your
-actual GitHub user name:
-
-```
-# Move to your home directory (for Terminal.com)
-cd /home
-
-# Clone your GitHub repository locally
-git clone https://www.github.com/<username>/planets
-
-# Move to the project's folder
-cd planets
-```
-
 ## Using the Git basic workflow
 
 In this section, we will gradually introduce changes to the `Planets` project
@@ -36,14 +14,15 @@ and use Git and GitHub to track and release these changes.
 ### Cloning the project
 
 To get a local Git version of the `Planets` project, we will clone it from
-GitHub. In your terminal (from Terminal.com), type the following commands:
+GitHub. In your terminal (from Terminal.com), type the following commands and
+replace `<username>` by your GitHub user name:
 
 ```
 # Move to your home directory (for Terminal.com)
 cd /home
 
 # Clone the planets GitHub repository locally
-git clone https://github.com/enormandeau/planets
+git clone https://github.com/<username>/planets
 
 # Move into the planets directory
 cd planets
@@ -139,11 +118,11 @@ these changes will...`. Here are some examples of good commit messages:
 
 ### Uploading (pushing)
 
-TODO git push
+All is now ready for us to send our changes online on GitHub.
 
-### Updating (pulling)
-
-TODO git pull
+```
+git push
+```
 
 ### Try adding Venus to the Solar System
 
@@ -176,20 +155,39 @@ The default output of the `git log` command is not very pretty. To produce a
 more useful output, use:
 
 ```
-git log --oneline --color --graph --all --decorate
+git log --oneline --graph --decorate
 ```
 
 Even better, you can create an alias for this command:
 
 ```
-alias gl='git log --oneline --color --graph --all --decorate'
+alias gl='git log --oneline --graph --decorate'
 ```
 
 Now, you can see the history by typing `gl` in the terminal.
 
 ## Time travel
 
-TODO `git checkout`
+We can use the `git checkout` command to go back to previous states of our
+project. When you use the `git log --oneline --graph --decorate` command,
+a seven character identifier is shown near the begining of the line. We can
+use these identifiers to move back and forward in time. Try it with the
+following command and change `<commit-id>` by the identifier shown by `git log`.
+
+```
+git checkout <commit-id>
+```
+
+Use `git log --oneline --graph --decorate` again to see that you have moved.
+The `HEAD` identifier indicates where in history we are currently situated. To
+move back to the most recent commit, you can either use its commit ID or use
+`master`. For example, you can use:
+
+```
+git checkout master
+```
+
+You are now at the most recent commit.
 
 ## Next section
 

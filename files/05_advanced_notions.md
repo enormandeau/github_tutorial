@@ -80,10 +80,6 @@ initiate a pull request. This means that the original author of the repository
 will receive a request to include your changes into his code. This is one of
 the primary ways to collaborate at developing code with GitHub.
 
-## Creating and using branches
-
-TODO Introduce branches, `git branch`, and branch-related gotchas
-
 ## Creating aliases for common Git commands
 
 After a while, typing the git command may feel tedious. Creating a few short
