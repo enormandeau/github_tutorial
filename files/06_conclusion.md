@@ -21,11 +21,11 @@ Now is time to start playing with your new toy!
 
 - <a href="https://guides.github.com/activities/hello-world/" target="_blank">Hello World</a> A quick introduction to Git and GitHub
 - <a href="https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf" target="_blank">GitHub - Git Cheat Sheet</a> Official GitHub Git cheat sheet
-- <a href="Pro Git Book" target="_blank">http://git-scm.com/book/en/v2</a> A very complete resource for Git
-- <a href="Visual Guide to Version Control" target="_blank">http://betterexplained.com/articles/a-visual-guide-to-version-control/</a>
-- <a href="Git - The Simple Guide" target="_blank">http://rogerdudler.github.io/git-guide/</a> A visual introduction go Git
-- <a href="Git Tips" target="_blank">https://github.com/git-tips/tips</a> How to and recipes
-- <a href="A Hacker's Guide to Git" target="_blank">http://wildlyinaccurate.com/a-hackers-guide-to-git/?utm_content=buffer9ee6e&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer</a> More advanced tricks
-- <a href="Git Cheat Sheet" target="_blank">http://www.cheat-sheets.org/saved-copy/git-cheat-sheet.pdf</a>
-- <a href="Git Tower - Cheat Sheet" target="_blank">http://www.git-tower.com/blog/git-cheat-sheet/</a>
+- <a href="http://git-scm.com/book/en/v2" target="_blank">Pro Git Book</a> A very complete resource for Git
+- <a href="http://betterexplained.com/articles/a-visual-guide-to-version-control/" target="_blank">Visual Guide to Version Control</a>
+- <a href="http://rogerdudler.github.io/git-guide/" target="_blank">Git - The Simple Guide</a> A visual introduction go Git
+- <a href="https://github.com/git-tips/tips" target="_blank">Git Tips</a> How to and recipes
+- <a href="http://wildlyinaccurate.com/a-hackers-guide-to-git/?utm_content=buffer9ee6e&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer" target="_blank">A Hacker's Guide to Git</a> More advanced tricks
+- <a href="http://www.cheat-sheets.org/saved-copy/git-cheat-sheet.pdf" target="_blank">Git Cheat Sheet</a>
+- <a href="http://www.git-tower.com/blog/git-cheat-sheet/" target="_blank">Git Tower - Cheat Sheet</a>
 
