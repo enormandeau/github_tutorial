@@ -3,13 +3,20 @@
 ## Overview of Git
 
 Git is the revision control system behind GitHub. Git's role is to **make code
-development more structured and to facilitate collaboration**.
+development more structured and to facilitate collaboration**. Git was written
+by Linus Torvald, who is know for having written the Linux kernel.  The Linux
+kernel developers were using a revision control system but Linus felt a new
+tool was needed. Between two kernel versions, he thus wrote Git to replace the
+revision control tool they were using.
 
 ## Graphical Interface vs Command Line
 
-We will use the command line to understand the process. As there are many
-graphical interfaces, this is a simple way to understand the necessary
-commands; later you can use whichever graphical interface you choose.
+In this tutorial, we will use the command line to understand the process of
+using Git. The terminal brings us closer to the core Git commands and so leads
+to a better understanding. As there are many graphical interfaces and since
+they vary from OS to OS, using the terminal is also simpler for teaching;
+Everybody is using the same interface. Later you can use whichever graphical
+interface you choose.
 
 ## Using Linux via Terminal.com
 
@@ -50,7 +57,8 @@ sudo apt-get install git
 
 To install Git on a Mac, Windows or non Debian based Linux distribution, follow
 the instructions on the
-[git installation page](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+
+<a href="https://git-scm.com/book/en/v2/Getting-Started-Installing-Git" target="_blank">git installation page</a>
 However, if you are using Windows, the following parts of the tutorial may not
 work for you. This is why we suggest that you use the Terminal.com option.
 

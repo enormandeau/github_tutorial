@@ -2,7 +2,7 @@
 
 ## An overview of GitHub
 
-In this section, we look at the different parts of GitHub, and at a user
+In this section, we look at the different parts of GitHub and of a user
 account.
 
 ### Main Page

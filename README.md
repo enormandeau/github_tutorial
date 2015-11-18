@@ -33,7 +33,7 @@ get you started.
 
 After going through this tutorial, you will:
 
-- Understand what revision control is all about
+- Understand what revision control is about
 - Know the basics of how to use Git and GitHub from the command line
 - Be able to start using GitHub to share and collaborate!
 
@@ -72,7 +72,7 @@ getting set up with Git to more advanced notions.
 ### [05 - Advanced notions](files/05_advanced_notions.md)
 
 - Using markdown in your README.md
-- Ignoring certain files from Git
+- Telling Git to ignore certain files
 - Getting remote changes
 - Forking and pull requests
 - Working with branches
