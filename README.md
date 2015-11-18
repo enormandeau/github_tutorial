@@ -2,15 +2,9 @@
 
 ![be social](images/be-social.gif)
 
-## WARNING!
-
-**This tutorial is almost completed but still under construction**
-
-The tutorial will be used in a workshop on 2015-11-18, so stay tuned!
-
 ## An introduction to Git and GitHub
 
-This tutorial covers the basics of the Git version control tool in combination
+This tutorial covers the basics of the Git revision control tool in combination
 with the popular GitHub web platform. It should be useful to anyone wanting to
 learn about Git and GitHub but is specifically designed for students and
 academics who program during their projects and want to learn more about social
@@ -29,7 +23,7 @@ By doing so, you will improve your ability to:
 - Create basic web pages to show your analyses
 - Create easy documentation and tutorials
 - Show that your projects are alive
-- Track code changes and version features
+- Track code changes and versions
 
 Git and GitHub can help you accomplish the above. You will need to spend some
 time with these tools to become proficient with them but this tutorial should
