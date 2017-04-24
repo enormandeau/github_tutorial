@@ -3,8 +3,8 @@
 ## Creating a new project
 
 Normally, you would have to create a new project. But,now that you have an
-active project, `Planets`, to work with, we will download it on your
-Terminal.com terminal (or standard terminal) to work on it.
+active project, `Planets`, to work with, we will download it on your computer
+to work on it.
 
 ## Using the Git basic workflow
 
@@ -14,12 +14,12 @@ and use Git and GitHub to track and release these changes.
 ### Cloning the project
 
 To get a local Git version of the `Planets` project, we will clone it from
-GitHub. In your terminal (from Terminal.com), type the following commands and
+GitHub. In your terminal, type the following commands and
 replace `<username>` by your GitHub user name:
 
 ```
-# Move to your home directory (for Terminal.com)
-cd /home
+# Move to your home directory
+cd /home # or cd /Users on Mac
 
 # Clone the planets GitHub repository locally
 git clone https://github.com/<username>/planets

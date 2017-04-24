@@ -18,31 +18,10 @@ they vary from OS to OS, using the terminal is also simpler for teaching;
 Everybody is using the same interface. Later you can use whichever graphical
 interface you choose.
 
-## Using Linux via Terminal.com
-
-**This section is optional**. If you have a Linux computer and can use the
-command line, you may skip to the next section. If you have a MacOS computer
-and know how to install git and use the terminal, you can also skip to the next
-section.
-
-In order to try Git, we will be using virtual Linux machines available online.
-To get started, head to
-<a href="http://www.terminal.com" target="_blank">Terminal</a>
-and create an account. From there, we will be using an already available
-machine (or Snap). We will use
-<a href="https://www.terminal.com/snapshot/987f8d702dc0a6e8158b48ccd3dec24f819a7ccb2756c396ef1fd7f5b34b7980" target="_blank">this snapshot</a>.
-Leave the default settings as they are and press the `Start` button on the
-bottom right.
-
-Once the virtual machine is started, your screen will be divided in sections.
-The only ones we want to use are `Terminal`, `Files`, and `Editor`, so you can
-click on the other ones (`Browser` and `Chat`) to remove them. If you click on
-the arrows after the name, the selected section will take the whole screen.
-
 ## Installing Git
 
-Installing Git on the Terminal.com Linux snapshot is simple. Type the following
-code in the terminal:
+Installing Git on Debian-based Linux distribution (eg: Ubuntu, Mint) is simple.
+Type the following code in the terminal:
 
 ```
 apt-get install git
@@ -60,7 +39,7 @@ the instructions on the
 
 <a href="https://git-scm.com/book/en/v2/Getting-Started-Installing-Git" target="_blank">git installation page</a>
 However, if you are using Windows, the following parts of the tutorial may not
-work for you. This is why we suggest that you use the Terminal.com option.
+work for you.
 
 ## Setting up Git
 

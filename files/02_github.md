@@ -116,8 +116,8 @@ and will be able to modify it during the tutorial.
 
 ### Next section
 
-In the next section, we will set up a Terminal.com account from which we will
-install Git and set it to work with your GitHub account.
+In the next section, we will install Git and set it to work with your GitHub
+account.
 
 ### [03 - Git](03_git.md)
 

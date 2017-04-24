@@ -57,7 +57,6 @@ getting set up with Git to more advanced notions.
 
 - Overview of Git
 - Graphical Interface vs Command Line
-- Using Linux via Terminal.com
 - Installing Git
 - Setting up Git
 
