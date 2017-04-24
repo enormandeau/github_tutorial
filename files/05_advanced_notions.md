@@ -59,7 +59,7 @@ and B, and you work on computer A. Tomorrow, when you are on computer B, the
 project folder is not up to date. To bring it up to date, you need to use the
 following command:
 
-```
+```bash
 git pull
 ```
 
@@ -86,7 +86,7 @@ After a while, typing the git command may feel tedious. Creating a few short
 aliases can make your life easier. Here are a few examples you could include in
 your `.bashrc` file:
 
-```
+```bash
 # Git
 alias gs='git status'
 alias ga='git add'

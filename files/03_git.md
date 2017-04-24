@@ -23,14 +23,14 @@ interface you choose.
 Installing Git on Debian-based Linux distribution (eg: Ubuntu, Mint) is simple.
 Type the following code in the terminal:
 
-```
+```bash
 apt-get install git
 ```
 
 If you are using your own Linux computer, you will need to add `sudo` in front
 of the command:
 
-```
+```bash
 sudo apt-get install git
 ```
 

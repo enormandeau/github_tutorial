@@ -82,7 +82,7 @@ To modify the `README.md` file directly from GitHub:
 - Click on the pen in the upper right portion of the file
 - Copy the following text to the `README.md` file:
 
-```
+```bash
 ## This is a level 2 title
 
 - This

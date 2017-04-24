@@ -17,7 +17,7 @@ To get a local Git version of the `Planets` project, we will clone it from
 GitHub. In your terminal, type the following commands and
 replace `<username>` by your GitHub user name:
 
-```
+```bash
 # Move to your home directory
 cd /home # or cd /Users on Mac
 
@@ -35,7 +35,7 @@ one planet, we will start by adding a second one. In the `planets/data` folder,
 add a file named `Mars`. Double-click on it to open it and add a one-line
 description of the planet Mars, for example:
 
-```
+```bash
 Reddish planet. Could this be our next destination?
 ```
 
@@ -48,7 +48,7 @@ added planet. Double-click on the `planet.sh` file to edit it.
 In section 2 of the script, add three lines to display the name and information
 about Mars. Section 2 should now look like this:
 
-```
+```bash
 # Section 2 - Display the planet information
 echo "Earth:"
 cat data/Earth
@@ -67,7 +67,7 @@ share them on GitHub.
 
 To see in what state our project is, we use:
 
-```
+```bash
 git status
 ```
 
@@ -75,7 +75,7 @@ This command shows us what files have changed (*changes not staged for commit*)
 or been created (*untracked changes*). We can even see the exact changes we
 have made to the `planets.sh` file with the following command:
 
-```
+```bash
 git diff --color
 ```
 
@@ -88,7 +88,7 @@ changes to the `planets.sh` script in its history. The `git add` command can be
 used to add all the changes or to add files one by one. Here, we will add both
 files separately.
 
-```
+```bash
 git add planets.sh
 git add data/Mars
 ```
@@ -103,7 +103,7 @@ back to them.
 To tell Git to include the changes selected with `git add`, we need to commit
 them with:
 
-```
+```bash
 git commit -m "Add the Mars planet"
 ```
 
@@ -120,7 +120,7 @@ these changes will...`. Here are some examples of good commit messages:
 
 All is now ready for us to send our changes online on GitHub.
 
-```
+```bash
 git push
 ```
 
@@ -145,7 +145,7 @@ From time to time, you will want to look at the history of your project and
 potentially go back in time. To display the history, you can use the following
 command:
 
-```
+```bash
 git log
 ```
 
@@ -154,13 +154,13 @@ You will need to press the `q` key to get back from the output of `git log`.
 The default output of the `git log` command is not very pretty. To produce a
 more useful output, use:
 
-```
+```bash
 git log --oneline --graph --decorate
 ```
 
 Even better, you can create an alias for this command:
 
-```
+```bash
 alias gl='git log --oneline --graph --decorate'
 ```
 
@@ -174,7 +174,7 @@ a seven character identifier is shown near the begining of the line. We can
 use these identifiers to move back and forward in time. Try it with the
 following command and change `<commit-id>` by the identifier shown by `git log`.
 
-```
+```bash
 git checkout <commit-id>
 ```
 
@@ -183,7 +183,7 @@ The `HEAD` identifier indicates where in history we are currently situated. To
 move back to the most recent commit, you can either use its commit ID or use
 `master`. For example, you can use:
 
-```
+```bash
 git checkout master
 ```
 
