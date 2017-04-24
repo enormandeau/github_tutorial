@@ -54,7 +54,7 @@ target="_blank">these instructions</a>.
 
 ## Next section
 In the next section, we will explore the standard Git workflow. We will be
-using the `Planets` repository that you forked from here
+using the `Planets` repository that you forked from
 <a href="http://github.com/enormandeau/planets"
 target="_blank">here</a>.
 
