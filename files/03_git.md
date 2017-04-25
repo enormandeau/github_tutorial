@@ -45,7 +45,7 @@ work for you.
 
 We now need to setup Git to integrate with GitHub. We follow the official
 <a href="https://help.github.com/articles/set-up-git/"
-target="_blank">Git setup help page</a>
+target="_blank">GitHub setup help page</a>
 for this.
 
 We can also setup Git so it remembers our password for some time by following
