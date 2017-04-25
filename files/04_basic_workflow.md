@@ -18,8 +18,8 @@ GitHub. In your terminal, type the following commands and
 replace `<username>` by your GitHub user name:
 
 ```bash
-# Move to your home directory
-cd /home # or cd /Users on Mac
+# Move to your Desktop directory
+cd ~/Desktop  # or cd; cd Desktop
 
 # Clone the planets GitHub repository locally
 git clone https://github.com/<username>/planets
@@ -30,9 +30,9 @@ cd planets
 
 ### Adding new files
 
-The `planets` folder should now appear in your file browser. Since we only have
+The `planets` folder should now appear on your desktop. Since we only have
 one planet, we will start by adding a second one. In the `planets/data` folder,
-add a file named `Mars`. Double-click on it to open it and add a one-line
+add a file named `Mars`. Open it with your text editor and add a one-line
 description of the planet Mars, for example:
 
 ```bash
@@ -43,17 +43,20 @@ Reddish planet. Could this be our next destination?
 
 In an analysis project, we would probably have to modify some code. Here, we
 will modify the `planets.sh` file to display the information about the newly
-added planet. Double-click on the `planet.sh` file to edit it.
+added planet. Open the `planet.sh` file to edit it.
 
 In section 2 of the script, add three lines to display the name and information
 about Mars. Section 2 should now look like this:
 
 ```bash
 # Section 2 - Display the planet information
+
+## Earth
 echo "Earth:"
 cat data/Earth
 echo
 
+## Mars
 echo "Mars:"
 cat data/Mars
 echo
@@ -107,8 +110,9 @@ them with:
 git commit -m "Add the Mars planet"
 ```
 
-Commit messages are very important. They should be short and descriptive. You
-need to write a message that finishes the following sentence: `When applied,
+Commit messages are very important. They should be **short and descriptive**.
+Think of them as *patches* to your current code. To write a good commit message, you
+need to write a short sentence that completes the following line: `When applied,
 these changes will...`. Here are some examples of good commit messages:
 
 - Fix bug with header in data
@@ -137,7 +141,7 @@ Use the same steps to add the Venus planet:
 - Commit the changes with `git commit -m "Add the Venus planet"`
 - Upload the changes with `git push`
 
-Congratulations! You have now mastered 90% of the important Git commands.
+Congratulations! You have now mastered 80% of the important Git commands.
 
 ## Visualizing the project history
 
