@@ -198,5 +198,5 @@ You are now at the most recent commit.
 In the next section, we will briefly look at a few more advanced Git
 techniques.
 
-### [05 - Advanced notions](05_advanced_notions.md)
+### [05 - Advanced basics](05_advanced_notions.md)
 
