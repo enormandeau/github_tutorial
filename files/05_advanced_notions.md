@@ -1,12 +1,12 @@
-# Advanced notions
+# Advanced basics
 
 This section contains notions and examples that are slightly more advanced. The
-goal is not to be exhaustive nor to cover very advanced subjects.
+goal is neither to be exhaustive nor to cover very advanced subjects.
 
 ## Using markdown in your README.md
 
-Each project should have a `README` file. If you create a file named
-`README.md`, GitHub will create an HTML version of it on your repository's main
+Each project should have a `README.md` file. If you create a file named
+`README.md`, GitHub will display an HTML version of it on your repository's main
 page.
 
 Any `markdown` formatting you put in your README.md file will be rendered
