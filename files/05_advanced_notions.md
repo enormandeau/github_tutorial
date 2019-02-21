@@ -88,20 +88,20 @@ your `.bashrc` file:
 
 ```bash
 # Git
-alias gs='git status'
-alias ga='git add'
-alias gb='git branch'
-alias gi='git commit'
-alias gii='git commit -m'
-alias gd='git diff'
-alias gdd='git diff --color-words'
-alias gc='git checkout'
-alias gp='git push'
 alias gg='echo ">>> Branches"; \
     git branch; \
     echo; \
     echo ">>> Graph"; \
     git log --oneline --color --graph --all --decorate'
+alias gh='gg | head'
+alias gs='git status'
+alias ga='git add'
+alias gb='git branch'
+alias gii='git commit -m'
+alias gi='git commit'
+alias gd='git diff'
+alias gc='git checkout'
+alias gp='git push'
 ```
 
 ## Next section
