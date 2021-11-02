@@ -13,11 +13,11 @@ versions when needed.
 
 A revision control system, like Git:
 
-- Tracks changes made to files over time
-- Keeps a copy of all older versions
+- Tracks changes made to text files over time
+- Keeps a "copy" of all older versions
 - Works as a log of progress by storing messages that describe changes
 - Helps you organize your analysis code into a working state
-- Help you share your project with others
+- Helps you share your project with others
 - Makes your research more reproducible
 - Greatly facilitates collaboration
 - Increases your visibility, which is good for your career!
@@ -25,7 +25,7 @@ A revision control system, like Git:
 ## Why chose Git and GitHub?
 
 There are many revision systems and online code hosting services. However, Git
-and GitHub are by far the most used by scientists. This means there are tons of
+and GitHub are the most used by scientists. This means there are tons of
 online resources on how to get started using Git and GitHub, and so getting
 help is easy!
 
