@@ -10,14 +10,15 @@ account.
 When you do not have an account with GitHub, the main page offers you the
 option to search among existing projects or to create an account.
 <a href="http://github.com/" target="_blank">Main page</a>
-Otherwise, if you have an account the main page displays the activity of
-accounts and projects you are following.
+Otherwise, if you are logged into your account, the main page displays
+the activity of your projects, as well as accounts and projects you are
+following.
 
 ### User Page
 
-A user page shows an avatar of the user and lists their projects. Only the most
-popular projects of the user are listed, but by clicking on the `repository`
-tab, you can access all of a user's projects.
+A user page shows a picture of the user and lists their projects. Only the most
+popular projects of the user, or those they have decided to showcase, are listed,
+but by clicking on the `repository` tab, you can access all of a user's projects.
 <a href="http://github.com/enormandeau" target="_blank">User page</a>
 
 ### Projects (or repositories)
@@ -33,7 +34,7 @@ target="_blank">Projects repositories</a>
 ### Example Project
 
 Let's look at an example project:
-<a href="http://github.com/enormandeau/meditation-timer"
+<a href="http://github.com/enormandeau/planets"
 target="_blank">Example project</a>
 
 This project contains a `data` folder with a text file, a main script
@@ -52,14 +53,14 @@ Let's dive in and actually play with GitHub.
 If you do not already have a GitHub account, we will now create one so that you
 can follow the tutorial. Please fill the following sections:
 
-- Login name
 - Email address
 - Password
+- User name
 
-Then choose the `Free` plan and click on `Finish sign up`.
+Answer the remaining questions.
 
 Congratulations! You now have a GitHub account. You will need to verify your
-email account before you can use it, so please do so now.
+email account before you can use it. Please do so now.
 
 ### Creating a test project
 
@@ -111,8 +112,8 @@ the repository:
 target="_blank">this repository on GitHub</a>
 - Click on the `Fork` button near the upper right of the screen
 
-This will create a copy of the `Planets` repository for you. You own this copy
-and will be able to modify it during the tutorial.
+This will create a copy of the `Planets` repository in your projects. You own
+this copy and will be able to modify it during the tutorial.
 
 ### Next section
 
