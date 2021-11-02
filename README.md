@@ -6,13 +6,11 @@
 
 This tutorial covers the basics of the Git revision control tool in combination
 with the popular GitHub web platform. It should be useful to anyone wanting to
-learn about Git and GitHub but is specifically designed for students and
-academics who program during their projects and want to learn more about social
-coding.
+learn about Git and GitHub but is more specifically designed for researchers.
 
 ## Why learn Git and GitHub?
 
-By doing so, you will improve your ability to:
+It will help you:
 
 - Increase your online presence
 - Share your code and embrace Open Science
@@ -25,9 +23,9 @@ By doing so, you will improve your ability to:
 - Show that your projects are alive
 - Track code changes and versions
 
-Git and GitHub can help you accomplish the above. You will need to spend some
-time with these tools to become proficient with them but this tutorial should
-get you started.
+Git and GitHub can help you accomplish the above. Like for any tool,
+you will need some time to become proficient but this tutorial is
+designed to get you started.
 
 ## What to expect from this tutorial
 
@@ -35,12 +33,11 @@ After going through this tutorial, you will:
 
 - Understand what revision control is about
 - Know the basics of how to use Git and GitHub from the command line
-- Be able to start using GitHub to share and collaborate!
+- Be able to start using GitHub to share your code and collaborate
 
 ## Table of contents
 
-Use the links below to navigate to each section within this tutorial, from
-getting set up with Git to more advanced notions.
+Use the links below to navigate to each section within this tutorial.
 
 ### [01 - Revision control from 10,000 feet](files/01_revision_control.md)
 
